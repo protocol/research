@@ -37,7 +37,7 @@ There are two public structural repos that contain directories, instructions, or
 
 
 ## Research topic repos 
-These repositories store work on a specific topic.  Before making a new respository, ensure that the idea is developed enough and then follow the [appropriate template in research-pm](https://github.com/protocol/research-pm/tree/master/templates).  Research topic repo names follow the following format (where %org currently includes 'protocol' and 'ipfs'):
+These repositories store work on a specific topic.  Once an idea has sufficiently developed, creating a new respository for that specific topic can be proposed.  Research topic repo names follow the following format (where %org currently includes 'protocol' and 'ipfs'): github.com/%org/research-%topic.
 
 ### %org/research-%topic
  - contains all filecoin related research (ex. [ipfs/research-bitswap](https://github.com/ipfs/research-bitswap/))
