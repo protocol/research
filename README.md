@@ -37,7 +37,7 @@ There are two public structural repos that contain directories, instructions, or
 
 
 ## Research Topic Repos 
-These repositories store work on a specific topic.  Once an idea has sufficiently developed, creating a new respository for that specific topic can be proposed.  Research topic repo names follow the following format (where %org currently includes 'protocol', 'ipfs', and 'libp2p'): github.com/%org/research-%topic.
+These repositories store work on a specific topic.  Once an idea has sufficiently developed, creating a new respository for that specific topic can be proposed.  Research topic repo names follow the following format (where %org currently includes 'protocol', 'ipfs', 'multiformats', and 'libp2p'): github.com/%org/research-%topic.
 
 ### Current Topic Repos
  - [ipfs/research-bitswap](https://github.com/ipfs/research-bitswap/)
