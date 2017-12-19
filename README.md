@@ -40,10 +40,13 @@ There are two public structural repos that contain directories, instructions, or
 These repositories store work on a specific topic.  Once an idea has sufficiently developed, creating a new respository for that specific topic can be proposed.  Research topic repo names follow the following format (where %org currently includes 'protocol', 'ipfs', 'multiformats', and 'libp2p'): github.com/%org/research-%topic.
 
 ### Current Topic Repos
+ - [ipld/research](https://github.com/ipld/research)
+ - [ipfs/research](https://github.com/ipfs/research)
  - [ipfs/research-bitswap](https://github.com/ipfs/research-bitswap/)
  - [ipfs/research-CRDT](https://github.com/ipfs/research-CRDT/)
  - [ipfs/research-blockchain-data](https://github.com/ipfs/research-blockchain-data/)
  - [ipfs/research-p2p-video](https://github.com/ipfs/research-p2p-video/)
+ - [libp2p/research](https://github.com/libp2p/research)
  - [libp2p/research-pubsub](https://github.com/libp2p/research-pubsub/)
 
 
