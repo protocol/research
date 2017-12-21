@@ -27,7 +27,7 @@ In general, research ideas start here as responses to important questions, and t
 There are two public structural repos that contain directories, instructions, or other information needed for performing research at PL.
 
 
-### [protocol/research-RFP](https://github.com/protocol/research-RFP)
+### [protocol/research-RFPs](https://github.com/protocol/research-RFPs)
  - contains grant information and RFPs for applicants
 
 ### [protocol/research]  **(this repo)**
