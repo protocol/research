@@ -12,7 +12,7 @@ This repo contains a directory and explanation of the structure of public resear
 
 In addition, this repo will hold the research roadmap, which includes all research that we are engaged in or supporting, including research being conducted by researchers who are not formally members of Protocol Labs.
 
-This repo also contains an idea logbook in the issues and serves as a workplace and dicussion venue for those problems.
+This repo also contains a list of open problem statements in the issues and serves as a workplace and dicussion venue for those problems.
 
 
  - Subscribe to this repo if you want to be updated about new research ideas and discussions
@@ -33,7 +33,7 @@ There are two public structural repos that contain directories, instructions, or
 ### [protocol/research]  **(this repo)**
  - default location of all research topics before they've reached prototype stage
  - contains index of public research
- - contains links, the idea logbook, and the list of important problems
+ - contains links, the list of open problem statements (in the issues)
 
 
 ## Research Topic Repos 
@@ -48,6 +48,15 @@ These repositories store work on a specific topic.  Once an idea has sufficientl
  - [ipfs/research-p2p-video](https://github.com/ipfs/research-p2p-video/)
  - [libp2p/research](https://github.com/libp2p/research)
  - [libp2p/research-pubsub](https://github.com/libp2p/research-pubsub/)
+
+
+
+## Creating an open problem statement
+Open problem statements are to be created by anyone in the community as issues in this repo, and should be used to prompt and focus discussion and investigation.
+The purpose of an open problem statement is twofold.  Firstly, it should convince the reader that the problem you are presenting is worth working on.  Secondly, it should provide enough background and understanding of the problem that all design decisions and requirements are comprehensively described and motivated.  Feel free to deviate from the issue template if you prefer, or answer the following questions as succinctly as possible for an easy open problem statement.
+
+While this template was made to support the RFP program, the open problem statements themselves are purely for the benefit of the community, and there is no obligation to make an RFP for each open problem.
+
 
 
 ## Example Use Cases
