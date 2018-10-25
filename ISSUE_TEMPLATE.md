@@ -9,12 +9,12 @@ While this template was made to support the RFP program, the open problem statem
 -->
 
 ## (Open Problem Title)
-
+- What is the problem?
 - (What are some solved problems that are as important as this one?) (optional)
-- What are related technologies?
-- How do people try to solve this problem?
-- What are the limitations on those solutions?
+- (What are related technologies?) (optional)
 - Why is this problem important?  What could you do with a solution?
+- How do people try to solve this problem? (What are naive solutions?)
+- What are the limitations on those solutions?
 - What hard constraints should it obey?
 - Are there additional soft constraints that a solution would ideally obey?
 - Any relevant notes?
