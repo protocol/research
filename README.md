@@ -1,5 +1,5 @@
 # Protocol Labs - Research
-
+![](https://img.shields.io/badge/team-research-0f41f4.svg?style=flat-square)
 > :rocket: Making Protocol Labs Protocol _Labs_.
 
 Welcome to the main research landing and launch page.  
