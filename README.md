@@ -7,6 +7,9 @@ Welcome to the main research landing and launch page.
 
 Our core mission is to bring research to the front of the organization: enable Protocol Labs to continue to work on not only implementing great tech, but also develop, specify, and improve new tech.
 
+#### Maintainer
+ [Evan Miyazono](https://github.com/miyazono)
+
 # What's in This Repo?
 
 This repo contains a directory and explanation of the structure of public research at Protocol Labs.  While not all Protocol Labs research will begin in this repository under public scrutiny, most will.  In addition, only under extreme circumstances will we ever make private any progress on a project that was at any point made public.
