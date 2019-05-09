@@ -1,3 +1,9 @@
+---
+name: Open Problem
+about: Issue for open research problems
+labels: application
+---
+
 <!-- Instructions: (duplicated here for convenience)
 ## Creating the open problem statement
 
