@@ -44,24 +44,25 @@ There are two public structural repos that contain directories, instructions, or
 These repositories store work on a specific topic.  Once an idea has sufficiently developed, creating a new respository for that specific topic can be proposed.  Research topic repo names follow the following format (where %org currently includes 'protocol', 'ipfs', 'multiformats', and 'libp2p'): github.com/%org/research-%topic.
 
 ### Current Topic Repos
- - [ipld/research](https://github.com/ipld/research)
- - [ipfs/research](https://github.com/ipfs/research)
- - [ipfs/research-bitswap](https://github.com/ipfs/research-bitswap/)
- - [ipfs/research-CRDT](https://github.com/ipfs/research-CRDT/)
- - [ipfs/research-blockchain-data](https://github.com/ipfs/research-blockchain-data/)
- - [ipfs/research-p2p-video](https://github.com/ipfs/research-p2p-video/)
- - [libp2p/research](https://github.com/libp2p/research)
- - [libp2p/research-pubsub](https://github.com/libp2p/research-pubsub/)
 
-
+- IPFS
+  - [ipfs/research](https://github.com/ipfs/research)
+  - [ipfs/research-bitswap](https://github.com/ipfs/research-bitswap/)
+  - [ipfs/research-CRDT](https://github.com/ipfs/research-CRDT/)
+  - [ipfs/research-blockchain-data](https://github.com/ipfs/research-blockchain-data/)
+  - [ipfs/research-p2p-video](https://github.com/ipfs/research-p2p-video/)
+- libp2p
+  - [libp2p/research](https://github.com/libp2p/research)
+  - [libp2p/research-pubsub](https://github.com/libp2p/research-pubsub/)
+  - [libp2p/research-dht](https://github.com/libp2p/research-dht/)
+- IPLD  
+  - [ipld/research](https://github.com/ipld/research)
 
 ## Creating an open problem statement
 Open problem statements are to be created by anyone in the community as issues in this repo, and should be used to prompt and focus discussion and investigation.
 The purpose of an open problem statement is twofold.  Firstly, it should convince the reader that the problem you are presenting is worth working on.  Secondly, it should provide enough background and understanding of the problem that all design decisions and requirements are comprehensively described and motivated.  Feel free to deviate from the issue template if you prefer, or answer the following questions as succinctly as possible for an easy open problem statement.
 
 While this template was made to support the RFP program, the open problem statements themselves are purely for the benefit of the community, and there is no obligation to make an RFP for each open problem.
-
-
 
 ## Example Use Cases
 
