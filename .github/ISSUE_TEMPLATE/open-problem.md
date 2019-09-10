@@ -14,17 +14,32 @@ While this template was made to support the RFP program, the open problem statem
 ** Open Problem Template **
 -->
 
-## (Open Problem Title)
-- What is the problem?
-- (What are some solved problems that are as important as this one?) (optional)
-- (What are related technologies?) (optional)
-- Why is this problem important?  What could you do with a solution?
-- How do people try to solve this problem? (What are naive solutions?)
-- What are the limitations on those solutions?
-- What hard constraints should it obey?
-- Are there additional soft constraints that a solution would ideally obey?
-- Any relevant notes?
+# Title
 
-I suggest posting open problems as issues in the research repos of the protocol, ipfs, libp2p, and ipld orgs, and respond to the issue with any directions that you might have.  Lastly, please update the index in this research repo's readme.
+## Description
 
+## State of the Art
 
+This survey on the State of the Art is not by any means complete, however, it should provide a good entry point to learn what are the existing work. If you have something that is fundamentally missing, please consider submitting a PR to augment this survey. 
+
+### Within the _PROJECT_ Ecosystem
+> Existing attempts and strategies
+
+### Within the broad Research Ecosystem
+> How do people try to solve this problem?
+
+### Known shortcommins of existing solutions
+> What are the limitations on those solutions?
+
+## Solving this Open Problem
+
+### What is the impact
+
+### What defines a complete solution?
+> What hard constraints should it obey? Are there additional soft constraints that a solution would ideally obey?
+
+## Other
+
+### Existing Conversations/Threads
+
+### Extra notes
