@@ -1,7 +1,7 @@
 ---
 name: Open Problem
 about: Issue for open research problems
-labels: application
+labels: open problem statement
 ---
 
 <!-- Instructions: (duplicated here for convenience)
@@ -28,12 +28,13 @@ This survey on the State of the Art is not by any means complete, however, it sh
 ### Within the broad Research Ecosystem
 > How do people try to solve this problem?
 
-### Known shortcommins of existing solutions
+### Known shortcomings of existing solutions
 > What are the limitations on those solutions?
 
 ## Solving this Open Problem
 
-### What is the impact
+### What is the impact?
+> How would we and/or the world benefit from solving this problem?
 
 ### What defines a complete solution?
 > What hard constraints should it obey? Are there additional soft constraints that a solution would ideally obey?
@@ -41,5 +42,6 @@ This survey on the State of the Art is not by any means complete, however, it sh
 ## Other
 
 ### Existing Conversations/Threads
+> Link to prior discussions relating to the problem
 
 ### Extra notes
