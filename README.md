@@ -57,6 +57,8 @@ These repositories store work on a specific topic.  Once an idea has sufficientl
   - [libp2p/research-dht](https://github.com/libp2p/research-dht/)
 - IPLD  
   - [ipld/research](https://github.com/ipld/research)
+- Filecoin
+  - [filecoin-project/research](https://github.com/filecoin-project/research)
 
 ## Creating an open problem statement
 Open problem statements are to be created by anyone in the community as issues in this repo, and should be used to prompt and focus discussion and investigation.
