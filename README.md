@@ -39,11 +39,7 @@ There are two public structural repos that contain directories, instructions, or
  - contains index of public research
  - contains links, the list of open problem statements (in the issues)
 
-
-## Research Topic Repos 
-These repositories store work on a specific topic.  Once an idea has sufficiently developed, creating a new repository for that specific topic can be proposed.  Research topic repo names follow the following format (where %org currently includes 'protocol', 'ipfs', 'multiformats', and 'libp2p'): github.com/%org/research-%topic.
-
-### Current Topic Repos
+### Project-specific Repos
 
 - IPFS
   - [ipfs/notes](https://github.com/ipfs/notes)
