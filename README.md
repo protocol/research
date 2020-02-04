@@ -46,15 +46,9 @@ These repositories store work on a specific topic.  Once an idea has sufficientl
 ### Current Topic Repos
 
 - IPFS
-  - [ipfs/research](https://github.com/ipfs/research)
-  - [ipfs/research-bitswap](https://github.com/ipfs/research-bitswap/)
-  - [ipfs/research-CRDT](https://github.com/ipfs/research-CRDT/)
-  - [ipfs/research-blockchain-data](https://github.com/ipfs/research-blockchain-data/)
-  - [ipfs/research-p2p-video](https://github.com/ipfs/research-p2p-video/)
+  - [ipfs/notes](https://github.com/ipfs/notes)
 - libp2p
-  - [libp2p/research](https://github.com/libp2p/research)
-  - [libp2p/research-pubsub](https://github.com/libp2p/research-pubsub/)
-  - [libp2p/research-dht](https://github.com/libp2p/research-dht/)
+  - [libp2p/notes](https://github.com/libp2p/notes)
 - IPLD  
   - [ipld/research](https://github.com/ipld/research)
 - Filecoin
