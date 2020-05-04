@@ -1,7 +1,10 @@
 ---
 name: Open Problem
 about: Issue for open research problems
+title: ''
 labels: open problem statement
+assignees: ''
+
 ---
 
 <!-- Instructions: (duplicated here for convenience)
