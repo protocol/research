@@ -12,6 +12,8 @@
 
 ### Past Talks
 
+#### 2020
+
 **July 9:** Polynomial Protocols, [Ariel Gabizon](https://medium.com/aztec-protocol/aztec-welcomes-ariel-gabizon-as-chief-scientist-298d7bfe5f28)
 
 **July 2:** [ALBATROSS: publicly AttestabLe BATched Randomness based On Secret Sharing](https://www.youtube.com/watch?v=HqdZcXbgPAM&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Bernardo David](https://pure.itu.dk/portal/en/persons/bernardo-machado-david(bdc2cd4a-df05-46ca-b027-b038039a58ec).html)
@@ -26,3 +28,10 @@
 
 **March 25:** [Decentralized Energy Grid: A Protocol Labs Independent Research project](https://www.youtube.com/watch?v=Xh80OzmaiGc&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=4), [Michael Hammersley](https://research.protocol.ai/authors/michael-hammersley/) (with [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/))
 
+**March 4:** [Drand: Distributed, bias resistant, unpredictable and publicly verifiable randomness](https://www.youtube.com/watch?v=ydwW2HFFxNI&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=5), [Nicolas Gailly](https://research.protocol.ai/authors/nicolas-gailly/)
+
+#### 2019
+
+**December 4:** [LegoSNARK Modular Design and Composition of Succinct Zero Knowledge Proofs](https://www.youtube.com/watch?v=BTngeE2IUHw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=8), [Dario Fiore](http://www.dariofiore.it/)
+
+**October 19:** [Discrete Logarithms in Quasi polynomial Time in Finite Fields of Fixed Characteristic](https://www.youtube.com/watch?v=xMm3yPsfgko&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=9), [Benjamin Wesolowski](http://www.bweso.com/)
