@@ -1,4 +1,6 @@
-# Upcoming Talks
+# Protocol Labs Research Seminar Series
+
+### Upcoming Talks
 
 **July 23:** [PulsarCast](https://github.com/JGAntunes/pulsarcast) + Testbed, [João Antunes](https://jgantunes.com/), 17:00 UTC
 
@@ -8,7 +10,7 @@
 
 **August 6:** The role of types in refactoring the Internet, [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams), 17:00 UTC
 
-# Past Talks
+### Past Talks
 
 **July 9:** Polynomial Protocols, [Ariel Gabizon](https://medium.com/aztec-protocol/aztec-welcomes-ariel-gabizon-as-chief-scientist-298d7bfe5f28)
 
