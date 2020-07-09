@@ -68,12 +68,11 @@ Please contact research@protocol.ai if you need to report a problem or address a
 
 We will keep all matters confidential and they will only be shared within the team, with the exception of legal counsel when deemed necessary, or unless given explicit permission by the reporter.
 
-If you prefer, you can contact any of our team members separately. The team is formed by:
+If you prefer, you can contact one of the below team members separately:
 
-- jpgross@protocol.ai
-- miyazono@protocol.ai
-- jorge@protocol.ai
-- karola.kirsanow@protocol.ai
+- jpgross (at] protocol [dot) ai
+- miyazono (at] protocol [dot) ai
+- karloa (at] protocol [dot) ai
 
 When contacting an individual directly, they will ask for explicit permission to share the details with the rest of the team. When not granted, they will keep details of the matters as confidential as possible (particularly private or identity information) but they may still share broad strokes as necessary to resolve the issue.
 
