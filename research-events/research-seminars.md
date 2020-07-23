@@ -2,8 +2,6 @@
 
 ### Upcoming Talks
 
-**July 23:** [PulsarCast](https://github.com/JGAntunes/pulsarcast) + Testbed, [João Antunes](https://jgantunes.com/), 17:00 UTC
-
 **July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://eprint.iacr.org/2020/555.pdf), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/), 17:00 UTC
 
 **July 30:** [Modular Politics: Toward a Governance Layer for Online Communities](https://arxiv.org/pdf/2005.13701.pdf), [Joshua Tan](https://www.joshuatan.com/research/), 18:00 UTC
@@ -13,6 +11,8 @@
 ### Past Talks
 
 #### 2020
+
+**July 23:** [PulsarCast](https://github.com/JGAntunes/pulsarcast) + Testbed, [João Antunes](https://jgantunes.com/)
 
 **July 9:** Polynomial Protocols, [Ariel Gabizon](https://medium.com/aztec-protocol/aztec-welcomes-ariel-gabizon-as-chief-scientist-298d7bfe5f28)
 
