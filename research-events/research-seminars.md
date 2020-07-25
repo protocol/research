@@ -8,7 +8,7 @@
 
 **August 6:** The role of types in refactoring the Internet, [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams), 17:00 UTC
 
-**August 11:** Unified security analysis of permissionless systems, [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/), 17:00 UTC
+**August 11:** [Unified security analysis of permissionless systems](https://arxiv.org/abs/2005.10484), [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/), 17:00 UTC
 
 **August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://cse.osu.edu/people/bojjavenkatakrishnan.2), 18:00 UTC
 
