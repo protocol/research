@@ -1,5 +1,7 @@
 # Protocol Labs Research Seminar Series
 
+*NOTE: Attendees and speakers will act respectfully toward others in attendance, in accordance with the Protocol Labs Research [Code of Conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md). Anyone who behaves disrespectfully, abusively, or otherwise inappropriately will be removed from the call and banned from future research seminars. If you have any questions about the code of conduct, please email research@protocol.ai.*
+
 ### Upcoming Talks
 
 **July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://eprint.iacr.org/2020/555.pdf), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/), 17:00 UTC
