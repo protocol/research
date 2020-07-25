@@ -16,7 +16,7 @@
 
 #### 2020
 
-**July 23:** [PulsarCast](https://github.com/JGAntunes/pulsarcast) + Testbed, [João Antunes](https://jgantunes.com/)
+**July 23:** [PulsarCast: Scalable and reliable pub-sub over P2P networks](https://www.youtube.com/watch?v=D2UKQPKMjr4&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [João Antunes](https://jgantunes.com/)
 
 **July 9:** Polynomial Protocols, [Ariel Gabizon](https://medium.com/aztec-protocol/aztec-welcomes-ariel-gabizon-as-chief-scientist-298d7bfe5f28)
 
