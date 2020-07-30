@@ -4,8 +4,6 @@
 
 ### Upcoming Talks
 
-**July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://eprint.iacr.org/2020/555.pdf), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/), 17:00 UTC
-
 **July 30:** [Modular Politics: Toward a Governance Layer for Online Communities](https://arxiv.org/pdf/2005.13701.pdf), [Joshua Tan](https://www.joshuatan.com/research/), 18:00 UTC
 
 **August 6:** The role of types in refactoring the Internet, [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams), 17:00 UTC
@@ -20,9 +18,11 @@
 
 #### 2020
 
+**July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://www.youtube.com/watch?v=9RRZQEMxSp0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/), 17:00 UTC
+
 **July 23:** [PulsarCast: Scalable and reliable pub-sub over P2P networks](https://www.youtube.com/watch?v=D2UKQPKMjr4&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [João Antunes](https://jgantunes.com/)
 
-**July 9:** Polynomial Protocols, [Ariel Gabizon](https://medium.com/aztec-protocol/aztec-welcomes-ariel-gabizon-as-chief-scientist-298d7bfe5f28)
+**July 9:** [Polynomial Protocols](https://www.youtube.com/watch?v=S2h9i7WzafY&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Ariel Gabizon](https://medium.com/aztec-protocol/aztec-welcomes-ariel-gabizon-as-chief-scientist-298d7bfe5f28)
 
 **July 2:** [ALBATROSS: publicly AttestabLe BATched Randomness based On Secret Sharing](https://www.youtube.com/watch?v=HqdZcXbgPAM&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Bernardo David](https://pure.itu.dk/portal/en/persons/bernardo-machado-david(bdc2cd4a-df05-46ca-b027-b038039a58ec).html)
 
