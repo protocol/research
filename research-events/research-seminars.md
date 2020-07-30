@@ -12,6 +12,8 @@
 
 **August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://cse.osu.edu/people/bojjavenkatakrishnan.2), 18:00 UTC
 
+**September 8:** [Challenges in the Decentralised Web: The Mastodon Case](http://www.eecs.qmul.ac.uk/~tysong/files/Mastodon.pdf), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top), 16:00 UTC
+
 **September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://arxiv.org/pdf/2003.11506.pdf), [Alberto Sonnino](https://sonnino.com/), 17:30 UTC
 
 ### Past Talks
