@@ -4,12 +4,6 @@
 
 ### Upcoming Talks
 
-**July 30:** [Modular Politics: Toward a Governance Layer for Online Communities](https://arxiv.org/pdf/2005.13701.pdf), [Joshua Tan](https://www.joshuatan.com/research/), 18:00 UTC
-
-**August 6:** The role of types in refactoring the Internet, [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams), 17:00 UTC
-
-**August 11:** [Unified security analysis of permissionless systems](https://arxiv.org/abs/2005.10484), [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/), 17:00 UTC
-
 **August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://cse.osu.edu/people/bojjavenkatakrishnan.2), 18:00 UTC
 
 **September 8:** [Challenges in the Decentralised Web: The Mastodon Case](http://www.eecs.qmul.ac.uk/~tysong/files/Mastodon.pdf), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top), 16:00 UTC
@@ -19,6 +13,12 @@
 ### Past Talks
 
 #### 2020
+
+**August 11:** [Unified security analysis of permissionless systems](https://www.youtube.com/watch?v=CiHvbdZK8dM&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/), 17:00 UTC
+
+**August 6:** [The role of types in refactoring the internet and Structural type theory of higher-order languages](https://www.youtube.com/watch?v=hug_wJmm29Y&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams), 17:00 UTC
+
+**July 30:** [Modular Politics: Toward a Governance Layer for Online Communities](https://www.youtube.com/watch?v=981FhtbX8vU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=4&t=0s), 18:00 UTC
 
 **July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://www.youtube.com/watch?v=9RRZQEMxSp0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/), 17:00 UTC
 
