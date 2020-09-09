@@ -6,7 +6,7 @@
 
 **September 14:** Measuring the performance of Private Cloud WANs, [Vasilis Giotsas](https://research.protocol.ai/authors/vasilis-giotsas/), 18:00 UTC
 
-**September:** Protocol Stack for the Federation of DLT Networks, [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 16:00 UTC
+**September 22:** Protocol Stack for the Federation of DLT Networks, [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 16:00 UTC
 
 **September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://arxiv.org/pdf/2003.11506.pdf), [Alberto Sonnino](https://sonnino.com/), 17:30 UTC
 
