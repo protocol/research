@@ -4,15 +4,25 @@
 
 ### Upcoming Talks
 
-**August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://cse.osu.edu/people/bojjavenkatakrishnan.2), 18:00 UTC
+**September 14:** Measuring the performance of Private Cloud WANs, [Vasilis Giotsas](https://research.protocol.ai/authors/vasilis-giotsas/), 18:00 UTC
 
-**September 8:** [Challenges in the Decentralised Web: The Mastodon Case](http://www.eecs.qmul.ac.uk/~tysong/files/Mastodon.pdf), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top), 16:00 UTC
+**September:** Protocol Stack for the Federation of DLT Networks, [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 16:00 UTC
 
 **September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://arxiv.org/pdf/2003.11506.pdf), [Alberto Sonnino](https://sonnino.com/), 17:30 UTC
+
+**October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/), 17:00 UTC
+
+**Date TBD:** [Non-Malleable Time-Lock Puzzles](https://eprint.iacr.org/2020/779.pdf), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/)
+
+**Date TBD:** Hybrid ICNs, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello)
 
 ### Past Talks
 
 #### 2020
+
+**September 8:** [Challenges in the Decentralised Web: The Mastodon Case](https://www.youtube.com/watch?v=Ryf_tTweoPE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top), 16:00 UTC
+
+**August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://www.youtube.com/watch?v=98WmfSXZjm0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), 18:00 UTC
 
 **August 11:** [Unified security analysis of permissionless systems](https://www.youtube.com/watch?v=CiHvbdZK8dM&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/), 17:00 UTC
 
