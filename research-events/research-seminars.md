@@ -16,7 +16,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **October 20:** [Non-Malleable Time-Lock Puzzles](https://eprint.iacr.org/2020/779.pdf), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/), 18:00 UTC
 
-**October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello), 18:30 UTC
+**October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello), 16:00 UTC
 
 ### Past Talks
 
