@@ -1,5 +1,7 @@
 # Protocol Labs Research Seminar Series
 
+If you would like to receive emails with talk announcements and Zoom link, please sign up in the footer on [our website](http://research.protocol.ai).
+
 *NOTE: Attendees and speakers will act respectfully toward others in attendance, in accordance with the Protocol Labs Research [Code of Conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md). Anyone who behaves disrespectfully, abusively, or otherwise inappropriately will be removed from the call and banned from future research seminars. If you have any questions about the code of conduct, please email research@protocol.ai.*
 
 ### Upcoming Talks
@@ -12,9 +14,9 @@
 
 **October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/), 17:00 UTC
 
-**Date TBD:** [Non-Malleable Time-Lock Puzzles](https://eprint.iacr.org/2020/779.pdf), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/)
+**October 20:** [Non-Malleable Time-Lock Puzzles](https://eprint.iacr.org/2020/779.pdf), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/), 18:00 UTC
 
-**Date TBD:** Hybrid ICNs, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello)
+**October 27:** Hybrid ICNs, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello), 18:30 UTC
 
 ### Past Talks
 
