@@ -5,7 +5,7 @@
 
 Welcome to the main research landing and launch repo. This is a companion to the [Protocol Labs Research website](https://research.protocol.ai/), which is the primary public reference for our work.
 
-Our core mission is to bring research to the front of the organization: enable Protocol Labs to continue to work on not only implementing great tech, but also develop, specify, and improve new tech.
+Our core mission is to pursue open, collaborative, high-impact research that pushes the boundaries of what computing can do for humanity.
 
 #### Maintainer
  [Evan Miyazono](https://github.com/miyazono)
