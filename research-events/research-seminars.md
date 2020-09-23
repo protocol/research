@@ -6,10 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**September 14:** Measuring the performance of Private Cloud WANs, [Vasilis Giotsas](https://research.protocol.ai/authors/vasilis-giotsas/), 18:00 UTC
-
-**September 22:** Protocol Stack for the Federation of DLT Networks, [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 16:00 UTC
-
 **September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://arxiv.org/pdf/2003.11506.pdf), [Alberto Sonnino](https://sonnino.com/), 17:30 UTC
 
 **October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/), 17:00 UTC
@@ -23,6 +19,10 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ### Past Talks
 
 #### 2020
+
+**September 22:** Protocol Stack for the Federation of DLT Networks, [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 16:00 UTC (video coming soon)
+
+**September 14:** [Measuring the performance of Private Cloud WANs](https://www.youtube.com/watch?v=ch81QNJQQuw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Vasilis Giotsas](https://research.protocol.ai/authors/vasilis-giotsas/), 18:00 UTC
 
 **September 8:** [Challenges in the Decentralised Web: The Mastodon Case](https://www.youtube.com/watch?v=Ryf_tTweoPE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top), 16:00 UTC
 
