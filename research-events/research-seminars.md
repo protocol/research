@@ -14,6 +14,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello), 16:00 UTC
 
+**November 12:** Routing attacks on cryptocurrencies, [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/), 18:00 UTC
+
 **November 17:** Topology management and gossip, the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
 
 ### Past Talks
