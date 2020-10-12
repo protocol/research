@@ -6,37 +6,40 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://arxiv.org/pdf/2003.11506.pdf), [Alberto Sonnino](https://sonnino.com/), 17:30 UTC
-
-**October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/), 17:00 UTC
-
 **October 20:** [Non-Malleable Time-Lock Puzzles](https://eprint.iacr.org/2020/779.pdf), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/), 18:00 UTC
 
 **October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello), 16:00 UTC
 
+**November 3:** Topology management and gossip, the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
+
 **November 12:** Routing attacks on cryptocurrencies, [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/), 18:00 UTC
 
-**November 17:** Topology management and gossip, the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
+**November 17:** [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://eprint.iacr.org/2020/149.pdf), [Dimitris Kolonelos](https://software.imdea.org/people/dimitris.kolonelos/index.html), 17:00 UTC  
+
 
 ### Past Talks
 
 #### 2020
 
-**September 22:** Protocol Stack for the Federation of DLT Networks, [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 16:00 UTC (video coming soon)
+**October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/)
 
-**September 14:** [Measuring the performance of Private Cloud WANs](https://www.youtube.com/watch?v=ch81QNJQQuw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Vasilis Giotsas](https://research.protocol.ai/authors/vasilis-giotsas/), 18:00 UTC
+**September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://www.youtube.com/watch?v=g4o6TBRe500&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alberto Sonnino](https://sonnino.com/)
 
-**September 8:** [Challenges in the Decentralised Web: The Mastodon Case](https://www.youtube.com/watch?v=Ryf_tTweoPE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top), 16:00 UTC
+**September 22:** [Protocol Stack for the Federation of DLT Networks](https://www.youtube.com/watch?v=2CYg_hy14Iw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
 
-**August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://www.youtube.com/watch?v=98WmfSXZjm0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), 18:00 UTC
+**September 14:** [Measuring the performance of Private Cloud WANs](https://www.youtube.com/watch?v=ch81QNJQQuw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Vasilis Giotsas](https://research.protocol.ai/authors/vasilis-giotsas/)
 
-**August 11:** [Unified security analysis of permissionless systems](https://www.youtube.com/watch?v=CiHvbdZK8dM&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/), 17:00 UTC
+**September 8:** [Challenges in the Decentralised Web: The Mastodon Case](https://www.youtube.com/watch?v=Ryf_tTweoPE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/#top)
 
-**August 6:** [The role of types in refactoring the internet and Structural type theory of higher-order languages](https://www.youtube.com/watch?v=hug_wJmm29Y&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams), 17:00 UTC
+**August 27:** [Optimal P2P design for Blockchains](https://arxiv.org/abs/2006.14186), [Shaileshh Bojja Venkatakrishnan](https://www.youtube.com/watch?v=98WmfSXZjm0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2)
 
-**July 30:** [Modular Politics: Toward a Governance Layer for Online Communities](https://www.youtube.com/watch?v=981FhtbX8vU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=4&t=0s), 18:00 UTC
+**August 11:** [Unified security analysis of permissionless systems](https://www.youtube.com/watch?v=CiHvbdZK8dM&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2&t=0s), [Sreeram Kannan](https://people.ece.uw.edu/kannan_sreeram/)
 
-**July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://www.youtube.com/watch?v=9RRZQEMxSp0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/), 17:00 UTC
+**August 6:** [The role of types in refactoring the internet and Structural type theory of higher-order languages](https://www.youtube.com/watch?v=hug_wJmm29Y&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Greg Meredith](https://www.rchain.coop/team) and [Christian Williams](https://mathdept.ucr.edu/people/christian-williams)
+
+**July 30:** [Modular Politics: Toward a Governance Layer for Online Communities](https://www.youtube.com/watch?v=981FhtbX8vU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=4&t=0s)
+
+**July 28:** [Splitting Payments Locally While Routing Interdimensionally](https://www.youtube.com/watch?v=9RRZQEMxSp0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=3&t=0s), [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/)
 
 **July 23:** [PulsarCast: Scalable and reliable pub-sub over P2P networks](https://www.youtube.com/watch?v=D2UKQPKMjr4&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [João Antunes](https://jgantunes.com/)
 
