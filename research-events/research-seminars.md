@@ -6,10 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**October 20:** [Non-Malleable Time-Lock Puzzles](https://eprint.iacr.org/2020/779.pdf), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/), 18:00 UTC
-
-**October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello), 16:00 UTC
-
 **November 3:** Topology management and gossip, the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
 
 **November 12:** Routing attacks on cryptocurrencies, [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/), 18:00 UTC
@@ -20,6 +16,10 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ### Past Talks
 
 #### 2020
+
+**October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello)
+
+**October 20:** [Non-Malleable Time-Lock Puzzles](https://www.youtube.com/watch?v=_Z4WLp8hguA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/)
 
 **October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/)
 
