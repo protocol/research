@@ -6,7 +6,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**November 3:** Topology management and gossip, the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
+**November 3:** Topology management and gossip: the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
 
 **November 12:** Routing attacks on cryptocurrencies, [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/), 18:00 UTC
 
