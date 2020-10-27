@@ -2,7 +2,7 @@
 
 If you would like to receive emails with talk announcements and Zoom link, please sign up in the footer on [our website](http://research.protocol.ai).
 
-*NOTE: Attendees and speakers will act respectfully toward others in attendance, in accordance with the Protocol Labs Research [Code of Conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md). Anyone who behaves disrespectfully, abusively, or otherwise inappropriately will be removed from the call and banned from future research seminars. If you have any questions about the code of conduct, please email research@protocol.ai.*
+*NOTE: Attendees and speakers will act respectfully toward others in attendance, in accordance with the [Protocol Labs Research Code of Conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md). Anyone who behaves disrespectfully, abusively, or otherwise inappropriately will be removed from the call and banned from future research seminars. If you have any questions about the code of conduct, please email research@protocol.ai.*
 
 ### Upcoming Talks
 
