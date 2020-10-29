@@ -17,7 +17,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 #### 2020
 
-**October 27:** Hybrid ICN, [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello)
+**October 27:** [Hybrid ICN](https://www.youtube.com/watch?v=BrGZGRUFLkU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello)
 
 **October 20:** [Non-Malleable Time-Lock Puzzles](https://www.youtube.com/watch?v=_Z4WLp8hguA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/)
 
