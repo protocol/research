@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**November 3:** Topology management and gossip: the way to scale, [João Leitão](https://asc.di.fct.unl.pt/~jleitao/), 17:00 UTC
-
 **November 12:** Routing attacks on cryptocurrencies, [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/), 18:00 UTC
 
 **November 17:** [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://eprint.iacr.org/2020/149.pdf), [Dimitris Kolonelos](https://software.imdea.org/people/dimitris.kolonelos/index.html), 17:00 UTC  
@@ -16,6 +14,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ### Past Talks
 
 #### 2020
+
+**November 3:** [Topology management and gossip: the way to scale](https://www.youtube.com/watch?v=jheTqE-aEe0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [João Leitão](https://asc.di.fct.unl.pt/~jleitao/)
 
 **October 27:** [Hybrid ICN](https://www.youtube.com/watch?v=BrGZGRUFLkU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Luca Muscariello](https://blogs.cisco.com/author/luca-muscariello)
 
