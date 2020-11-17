@@ -6,14 +6,17 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**November 12:** Routing attacks on cryptocurrencies, [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/), 18:00 UTC
-
 **November 17:** [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://eprint.iacr.org/2020/149.pdf), [Dimitris Kolonelos](https://software.imdea.org/people/dimitris.kolonelos/index.html), 17:00 UTC  
 
+**January 12, 2021:** Title TBD, [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/), 18:00 UTC
+
+**January 19, 2021:** Title TBD, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
 
 ### Past Talks
 
 #### 2020
+
+**November 12:** [Routing attacks on cryptocurrencies](https://www.youtube.com/watch?v=Eo2EBrjs8Ug&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/)
 
 **November 3:** [Topology management and gossip: the way to scale](https://www.youtube.com/watch?v=jheTqE-aEe0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [João Leitão](https://asc.di.fct.unl.pt/~jleitao/)
 
