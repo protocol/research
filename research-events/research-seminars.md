@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**November 17:** [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://eprint.iacr.org/2020/149.pdf), [Dimitris Kolonelos](https://software.imdea.org/people/dimitris.kolonelos/index.html), 17:00 UTC  
-
 **January 12, 2021:** Title TBD, [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/), 18:00 UTC
 
 **January 19, 2021:** Title TBD, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
@@ -15,6 +13,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ### Past Talks
 
 #### 2020
+
+**November 17:** [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://www.youtube.com/watch?v=lNWG6m-a534&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Dimitris Kolonelos](https://software.imdea.org/people/dimitris.kolonelos/index.html)
 
 **November 12:** [Routing attacks on cryptocurrencies](https://www.youtube.com/watch?v=Eo2EBrjs8Ug&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Maria Apostolaki](https://nsg.ee.ethz.ch/people/maria-apostolaki/)
 
