@@ -10,6 +10,10 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **January 19, 2021:** Title TBD, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
 
+**January 26, 2021:** Title TBD, [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
+
+**February 9, 2021:** [SoK: Tools for Game Theoretic Models of Security for Cryptocurrencies](https://research.protocol.ai/publications/sok-tools-for-game-theoretic-models-of-security-for-cryptocurrencies/azouvi2020.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
+
 ### Past Talks
 
 #### 2020
