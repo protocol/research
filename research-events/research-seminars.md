@@ -14,6 +14,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **February 9, 2021:** [SoK: Tools for Game Theoretic Models of Security for Cryptocurrencies](https://research.protocol.ai/publications/sok-tools-for-game-theoretic-models-of-security-for-cryptocurrencies/azouvi2020.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
 
+**February 16, 2021:** Social Computing and Collective Problem Solving, [Joel Chan](http://joelchan.me/), 17:00 UTC
+
 ### Past Talks
 
 #### 2020
