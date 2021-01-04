@@ -6,9 +6,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### Upcoming Talks
 
-**January 12, 2021:** Title TBD, [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/), 18:00 UTC
+**January 12, 2021:** The Inter-Cranial Abstraction System: A framework for content-addressed functional programming, [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/), 18:00 UTC
 
-**January 19, 2021:** Title TBD, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
+**January 19, 2021:** The Underlay: a distributed public knowledge graph, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
 
 **January 26, 2021:** Title TBD, [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
 
