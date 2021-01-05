@@ -10,11 +10,13 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **January 19, 2021:** The Underlay: a distributed public knowledge graph, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
 
-**January 26, 2021:** Title TBD, [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
+**January 26, 2021:** [Verifiable computation over encrypted data](https://eprint.iacr.org/2020/132), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
 
 **February 9, 2021:** [SoK: Tools for Game Theoretic Models of Security for Cryptocurrencies](https://research.protocol.ai/publications/sok-tools-for-game-theoretic-models-of-security-for-cryptocurrencies/azouvi2020.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
 
 **February 16, 2021:** Social Computing and Collective Problem Solving, [Joel Chan](http://joelchan.me/), 17:00 UTC
+
+**March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://eprint.iacr.org/2019/1156), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/), 17:00 UTC
 
 ### Past Talks
 
