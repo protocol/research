@@ -4,11 +4,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 *NOTE: Attendees and speakers will act respectfully toward others in attendance, in accordance with the [Protocol Labs Research Code of Conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md). Anyone who behaves disrespectfully, abusively, or otherwise inappropriately will be removed from the call and banned from future research seminars. If you have any questions about the code of conduct, please email research@protocol.ai.*
 
-### Upcoming Talks
-
-**January 12, 2021:** The Inter-Cranial Abstraction System: A framework for content-addressed functional programming, [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/), 18:00 UTC
-
-**January 19, 2021:** The Underlay: a distributed public knowledge graph, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/), 18:00 UTC
+## Upcoming Talks
 
 **January 26, 2021:** [Verifiable computation over encrypted data](https://eprint.iacr.org/2020/132), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
 
@@ -16,11 +12,23 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **February 16, 2021:** Social Computing and Collective Problem Solving, [Joel Chan](http://joelchan.me/), 17:00 UTC
 
+**February 23, 2021:** [Beyond Swapping Bits](https://research.protocol.ai/blog/2021/beyond-swapping-bits-project-review-and-preview/), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 17:00 UTC
+
+**March 9, 2021:** [Zero-Knowledge Succinct Arguments with a Linear-Time Prover](https://eprint.iacr.org/2020/1527.pdf), Jonathan Bootle, 17:00 UTC
+
+**March 11, 2021:** Verifiable Computation over Rings, [Eduardo Soria Vazquez](https://soriavazquez.github.io/), 17:00 UTC
+
 **March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://eprint.iacr.org/2019/1156), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/), 17:00 UTC
 
-### Past Talks
+## Past Talks
 
-#### 2020
+### 2021
+
+**January 19, 2021:** The Underlay: a distributed public knowledge graph, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/)
+
+**January 12, 2021:** [The Inter-Cranial Abstraction System: A framework for content-addressed functional programming](https://www.youtube.com/watch?v=J4WllOW_6As&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/)
+
+### 2020
 
 **November 17:** [Incrementally Aggregatable Vector Commitments and Applications to Verifiable Decentralized Storage](https://www.youtube.com/watch?v=lNWG6m-a534&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Dimitris Kolonelos](https://software.imdea.org/people/dimitris.kolonelos/index.html)
 
@@ -32,7 +40,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **October 20:** [Non-Malleable Time-Lock Puzzles](https://www.youtube.com/watch?v=_Z4WLp8hguA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Naomi Ephraim](https://www.cs.cornell.edu/~nephraim/)
 
-**October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://arxiv.org/pdf/2002.07747.pdf), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/)
+**October 6:** [Mapping the Interplanetary Filesystem -- A Network Layer Measurement Study of IPFS](https://www.youtube.com/watch?v=jQI37Y25jwk&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Sebastian Henningsen](https://www.linkedin.com/in/sebastian-henningsen-a1a35a100/)
 
 **September 28:** [FastPay: High-Performance Byzantine Fault Tolerant Settlement](https://www.youtube.com/watch?v=g4o6TBRe500&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alberto Sonnino](https://sonnino.com/)
 
@@ -70,7 +78,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **March 4:** [Drand: Distributed, bias resistant, unpredictable and publicly verifiable randomness](https://www.youtube.com/watch?v=ydwW2HFFxNI&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=5), [Nicolas Gailly](https://research.protocol.ai/authors/nicolas-gailly/)
 
-#### 2019
+### 2019
 
 **December 4:** [LegoSNARK Modular Design and Composition of Succinct Zero Knowledge Proofs](https://www.youtube.com/watch?v=BTngeE2IUHw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=8), [Dario Fiore](http://www.dariofiore.it/)
 
