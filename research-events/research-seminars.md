@@ -20,6 +20,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://eprint.iacr.org/2019/1156), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/), 17:00 UTC
 
+**March 23, 2021:** Brain-Computer Interface, Cátia Fortunato (Imperial College), 16:00 UTC
+
 **April 20, 2021:** What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
 
 ## Past Talks
