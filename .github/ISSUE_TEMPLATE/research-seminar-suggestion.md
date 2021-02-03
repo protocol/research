@@ -2,7 +2,7 @@
 name: Research seminar suggestion
 about: suggestion for a speaker or topic
 title: "[Speaker name: Topic]"
-labels: ''
+labels: 'talk'
 assignees: jpgross3
 
 ---
