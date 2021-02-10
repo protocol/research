@@ -6,10 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**January 26, 2021:** [Verifiable computation over encrypted data](https://eprint.iacr.org/2020/132), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
-
-**February 9, 2021:** [Winkle: a decentralized checkpointing for proof-of-stake systems](https://eprint.iacr.org/2019/1440.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
-
 **February 16, 2021:** Social Computing and Collective Problem Solving, [Joel Chan](http://joelchan.me/), 17:00 UTC
 
 **February 23, 2021:** [Beyond Swapping Bits](https://research.protocol.ai/blog/2021/beyond-swapping-bits-project-review-and-preview/), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 17:00 UTC
@@ -22,11 +18,19 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **March 23, 2021:** Brain-Computer Interface, Cátia Fortunato (Imperial College), 16:00 UTC
 
+**March 25, 2021:** [Tournesol: Collaborative Content Recommendation](https://docs.google.com/document/d/e/2PACX-1vQNGCC5TLYiCAr0IBMWoYQ6lpdG62N1whXkcXM-C9zeGbNHGexKpYGnUGPywVMPvSxjtgcN7sEM9gn0/pub), [Lê Nguyên Hoang](https://www.science4all.org/about/), 16:00 UTC
+
+**April 13, 2021:** AI Alignment, [Rohin Shah](https://rohinshah.com/), 17:00 UTC
+
 **April 20, 2021:** What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
 
 ## Past Talks
 
 ### 2021
+
+**February 9, 2021:** [Winkle: a decentralized checkpointing for proof-of-stake systems](https://eprint.iacr.org/2019/1440.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
+
+**January 26, 2021:** [Verifiable computation over encrypted data](https://www.youtube.com/watch?v=OT9zTAF0U4s&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
 
 **January 19:** The Underlay: a distributed public knowledge graph, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/)
 
