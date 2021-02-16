@@ -14,12 +14,13 @@ Our mission is to pursue open, collaborative, high-impact research that pushes t
 
 This repo contains a directory and explanation of the structure of public research at Protocol Labs.  While not all Protocol Labs research will begin in this repository under public scrutiny, most will.  In addition, only under extreme circumstances will we ever make private any progress on a project that was at any point made public.
 
-In addition, this repo will hold the research roadmap, which includes all research that we are engaged in or supporting, including research being conducted by researchers who are not formally members of Protocol Labs.
+In addition, this repo houses a complete [list of past and upcoming research seminars](https://github.com/protocol/research/blob/master/research-events/research-seminars.md) and our [code of conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md) for all public research events.
 
 This repo also contains a list of open problem statements in the issues and serves as a workplace and dicussion venue for those problems.
 
+Subscribe to this repo if you want to be updated about new research ideas and discussions. If you want to closely follow the work of Protocol Labs Research, however, we strongly suggest also subscribing to [our official mailing list](https://protocol.us4.list-manage.com/subscribe?MERGE0=&u=09d704b0125b11d44d67d4617&id=7aa0f1150b&subscribe=) for quarterly newsletters, funding opportunity announcements (FOAs), research talk announcements, and more (customizable subscription preferences). 
 
- - Subscribe to this repo if you want to be updated about new research ideas and discussions
+If you are looking for open problems specifically to do with our Resilient Networks Lab (ResNetLab), you can find those [here](https://github.com/protocol/ResNetLab/tree/master/OPEN_PROBLEMS).
 
 ---
 
