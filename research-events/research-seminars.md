@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**February 16, 2021:** Social Computing and Collective Problem Solving, [Joel Chan](http://joelchan.me/), 17:00 UTC
-
 **February 23, 2021:** [Beyond Swapping Bits](https://research.protocol.ai/blog/2021/beyond-swapping-bits-project-review-and-preview/), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), 17:00 UTC
 
 **March 9, 2021:** [Zero-Knowledge Succinct Arguments with a Linear-Time Prover](https://eprint.iacr.org/2020/1527.pdf), Jonathan Bootle, 17:00 UTC
@@ -27,6 +25,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**February 16, 2021:** [Towards Open and Sustainable Infrastructures for Interdisciplinary Synthesis](https://www.youtube.com/watch?v=zvWv-mZRAQw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Joel Chan](http://joelchan.me/)
 
 **February 9, 2021:** [Winkle: a decentralized checkpointing for proof-of-stake systems](https://eprint.iacr.org/2019/1440.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
 
