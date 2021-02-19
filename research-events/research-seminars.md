@@ -32,7 +32,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **January 26, 2021:** [Verifiable computation over encrypted data](https://www.youtube.com/watch?v=OT9zTAF0U4s&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
 
-**January 19:** The Underlay: a distributed public knowledge graph, [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/)
+**January 19:** [The Underlay: a distributed public knowledge graph](https://www.youtube.com/watch?v=QIZV1Y71F8A&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=4), [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/)
 
 **January 12:** [The Inter-Cranial Abstraction System: A framework for content-addressed functional programming](https://www.youtube.com/watch?v=J4WllOW_6As&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Alan Ransil](https://research.protocol.ai/authors/alan-ransil/)
 
