@@ -28,9 +28,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **February 16, 2021:** [Towards Open and Sustainable Infrastructures for Interdisciplinary Synthesis](https://www.youtube.com/watch?v=zvWv-mZRAQw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Joel Chan](http://joelchan.me/)
 
-**February 9, 2021:** [Winkle: a decentralized checkpointing for proof-of-stake systems](https://eprint.iacr.org/2019/1440.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
+**February 9, 2021:** [Winkle: a decentralized checkpointing for proof-of-stake systems](https://eprint.iacr.org/2019/1440.pdf), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/)
 
-**January 26, 2021:** [Verifiable computation over encrypted data](https://www.youtube.com/watch?v=OT9zTAF0U4s&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/), 17:00 UTC
+**January 26, 2021:** [Verifiable computation over encrypted data](https://www.youtube.com/watch?v=OT9zTAF0U4s&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Anca Nitulescu](https://research.protocol.ai/authors/anca-nitulescu/)
 
 **January 19:** [The Underlay: a distributed public knowledge graph](https://www.youtube.com/watch?v=QIZV1Y71F8A&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=4), [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson/)
 
