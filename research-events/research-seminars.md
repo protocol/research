@@ -6,7 +6,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**March 9, 2021:** [Zero-Knowledge Succinct Arguments with a Linear-Time Prover](https://eprint.iacr.org/2020/1527.pdf), Jonathan Bootle, 17:00 UTC
+**March 9, 2021:** [Zero-Knowledge Succinct Arguments with a Linear-Time Prover](https://eprint.iacr.org/2020/1527.pdf), [Jonathan Bootle](https://jbootle.github.io/), 17:00 UTC
 
 **March 11, 2021:** Verifiable Computation over Rings, [Eduardo Soria Vazquez](https://soriavazquez.github.io/), 17:00 UTC
 
@@ -26,7 +26,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**February 23, 2021:** [Beyond Swapping Bits](https://research.protocol.ai/blog/2021/beyond-swapping-bits-project-review-and-preview/), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
+**February 23, 2021:** [Beyond Swapping Bits](https://www.youtube.com/watch?v=3pyLu6weOvQ&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
 
 **February 16:** [Towards Open and Sustainable Infrastructures for Interdisciplinary Synthesis](https://www.youtube.com/watch?v=zvWv-mZRAQw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Joel Chan](http://joelchan.me/)
 
