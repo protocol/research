@@ -6,12 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**March 9, 2021:** [Zero-Knowledge Succinct Arguments with a Linear-Time Prover](https://eprint.iacr.org/2020/1527.pdf), [Jonathan Bootle](https://jbootle.github.io/), 17:00 UTC
-
-**March 11, 2021:** Verifiable Computation over Rings, [Eduardo Soria Vazquez](https://soriavazquez.github.io/), 17:00 UTC
-
-**March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://eprint.iacr.org/2019/1156), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/), 17:00 UTC
-
 **March 23, 2021:** Brain-Computer Interface, Cátia Fortunato (Imperial College), 16:00 UTC
 
 **March 25, 2021:** [Tournesol: Collaborative Content Recommendation](https://docs.google.com/document/d/e/2PACX-1vQNGCC5TLYiCAr0IBMWoYQ6lpdG62N1whXkcXM-C9zeGbNHGexKpYGnUGPywVMPvSxjtgcN7sEM9gn0/pub), [Lê Nguyên Hoang](https://www.science4all.org/about/), 16:00 UTC
@@ -25,6 +19,12 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://eprint.iacr.org/2019/1156), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/)
+
+**March 11, 2021:** [Rinocchio: SNARKs for Ring Arithmetic](https://www.youtube.com/watch?v=j2czM2mvFi0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Eduardo Soria Vazquez](https://soriavazquez.github.io/)
+
+**March 9, 2021:** [Zero-Knowledge Succinct Arguments with a Linear-Time Prover](https://www.youtube.com/watch?v=ntiJEWdGF4k&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Jonathan Bootle](https://jbootle.github.io/)
 
 **February 23, 2021:** [Beyond Swapping Bits](https://www.youtube.com/watch?v=3pyLu6weOvQ&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
 
