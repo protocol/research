@@ -10,6 +10,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **March 25, 2021:** [Tournesol: Collaborative Content Recommendation](https://docs.google.com/document/d/e/2PACX-1vQNGCC5TLYiCAr0IBMWoYQ6lpdG62N1whXkcXM-C9zeGbNHGexKpYGnUGPywVMPvSxjtgcN7sEM9gn0/pub), [Lê Nguyên Hoang](https://www.science4all.org/about/), 16:00 UTC
 
+**April 6, 2021:** State of the Art in BCI, [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/), 17:00 UTC
+
 **April 13, 2021:** AI Alignment, [Rohin Shah](https://rohinshah.com/), 17:00 UTC
 
 **April 20, 2021:** What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
