@@ -16,13 +16,15 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **April 20, 2021:** Open Source Game Theory: What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
 
+**April 27, 2021:** Automating reasoning about the future: Language models as research tools, [Andreas Stuhlmüller](https://stuhlmueller.org/), 16:00 UTC
+
 **May 20, 2021:**  Future privacy: A real right to privacy for artificial intelligence, [Sakoyo Blodgett-Ford](https://www.bc.edu/bc-web/schools/law/academics-faculty/faculty-directory/sayoko-blodgett-ford.html), 17:00 UTC
 
 ## Past Talks
 
 ### 2021
 
-**March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://eprint.iacr.org/2019/1156), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/)
+**March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://www.youtube.com/watch?v=E1Zze0R4jlA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/)
 
 **March 11, 2021:** [Rinocchio: SNARKs for Ring Arithmetic](https://www.youtube.com/watch?v=j2czM2mvFi0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Eduardo Soria Vazquez](https://soriavazquez.github.io/)
 
