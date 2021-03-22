@@ -14,7 +14,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **April 13, 2021:** AI Alignment, [Rohin Shah](https://rohinshah.com/), 17:00 UTC
 
-**April 20, 2021:** What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
+**April 20, 2021:** Open Source Game Theory: What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
 
 **May 20, 2021:**  Future privacy: A real right to privacy for artificial intelligence, [Sakoyo Blodgett-Ford](https://www.bc.edu/bc-web/schools/law/academics-faculty/faculty-directory/sayoko-blodgett-ford.html), 17:00 UTC
 
