@@ -6,10 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**March 23, 2021:** Brain-Computer Interface, Cátia Fortunato (Imperial College), 16:00 UTC
-
-**March 25, 2021:** [Tournesol: Collaborative Content Recommendation](https://docs.google.com/document/d/e/2PACX-1vQNGCC5TLYiCAr0IBMWoYQ6lpdG62N1whXkcXM-C9zeGbNHGexKpYGnUGPywVMPvSxjtgcN7sEM9gn0/pub), [Lê Nguyên Hoang](https://www.science4all.org/about/), 16:00 UTC
-
 **April 6, 2021:** State of the Art in BCI, [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/), 17:00 UTC
 
 **April 13, 2021:** AI Alignment, [Rohin Shah](https://rohinshah.com/), 17:00 UTC
@@ -25,6 +21,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**March 25, 2021:** [Tournesol: Collaborative Content Recommendation](https://www.youtube.com/watch?v=Dyx_sR3ZftA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Lê Nguyên Hoang](https://www.science4all.org/about/)
 
 **March 16, 2021:** [How to Extract Useful Randomness from Unreliable Sources](https://www.youtube.com/watch?v=E1Zze0R4jlA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Luisa Siniscalchi](http://docenti.diem.unisa.it/AR/lsiniscalchi/)
 
