@@ -6,7 +6,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**April 6, 2021:** State of the Art in BCI, [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/), 17:00 UTC
+**April 6, 2021:** Almost an Android: Developments in Brain-Computer Interface Technology, [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/), 17:00 UTC
 
 **April 13, 2021:** AI Alignment, [Rohin Shah](https://rohinshah.com/), 17:00 UTC
 
