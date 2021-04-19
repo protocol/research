@@ -6,10 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**April 6, 2021:** Almost an Android: Developments in Brain-Computer Interface Technology, [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/), 17:00 UTC
-
-**April 13, 2021:** AI Alignment, [Rohin Shah](https://rohinshah.com/), 17:00 UTC
-
 **April 20, 2021:** Open Source Game Theory: What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
 
 **April 27, 2021:** Automating reasoning about the future: Language models as research tools, [Andreas Stuhlmüller](https://stuhlmueller.org/), 16:00 UTC
@@ -21,6 +17,10 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**April 13, 2021:** [Threat Models and Approaches for AI Alignment[(https://www.youtube.com/watch?v=qonxs88zcL8&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Rohin Shah](https://rohinshah.com/)
+
+**April 6, 2021:** [Almost an Android: Developments in Brain-Computer Interface Technology](https://www.youtube.com/watch?v=21yRiKvGZnE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/)
 
 **March 25, 2021:** [Tournesol: Collaborative Content Recommendation](https://www.youtube.com/watch?v=Dyx_sR3ZftA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Lê Nguyên Hoang](https://www.science4all.org/about/)
 
