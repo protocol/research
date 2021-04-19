@@ -18,7 +18,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**April 13, 2021:** [Threat Models and Approaches for AI Alignment[(https://www.youtube.com/watch?v=qonxs88zcL8&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Rohin Shah](https://rohinshah.com/)
+**April 13, 2021:** [Threat Models and Approaches for AI Alignment](https://www.youtube.com/watch?v=qonxs88zcL8&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Rohin Shah](https://rohinshah.com/)
 
 **April 6, 2021:** [Almost an Android: Developments in Brain-Computer Interface Technology](https://www.youtube.com/watch?v=21yRiKvGZnE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Christopher James](https://warwick.ac.uk/fac/sci/eng/people/christopher_james/)
 
