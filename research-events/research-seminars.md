@@ -6,10 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**April 20, 2021:** Open Source Game Theory: What AI and Decentralized Technologies Need to Learn from Each Other, [Andrew Critch](http://acritch.com/), 17:00 UTC
-
-**April 27, 2021:** Automating reasoning about the future: Language models as research tools, [Andreas Stuhlmüller](https://stuhlmueller.org/), 16:00 UTC
-
 **May 4, 2021:** [SoK: Tools for game theoretic models of security for cryptocurrencies](https://research.protocol.ai/publications/sok-tools-for-game-theoretic-models-of-security-for-cryptocurrencies/), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
 
 **May 11, 2021:** [Post-Quantum Succinct Arguments](https://eprint.iacr.org/2021/334.pdf), Nick Spooner, 17:00 UTC
@@ -19,6 +15,10 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**April 27, 2021:** Automating reasoning about the future: Language models as research tools, [Andreas Stuhlmüller](https://stuhlmueller.org/)
+
+**April 20, 2021:** [Open Source Game Theory: What AI and Decentralized Technologies Need to Learn from Each Other](https://www.youtube.com/watch?v=itMol0zPN00&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Andrew Critch](http://acritch.com/)
 
 **April 13, 2021:** [Threat Models and Approaches for AI Alignment](https://www.youtube.com/watch?v=qonxs88zcL8&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Rohin Shah](https://rohinshah.com/)
 
