@@ -16,7 +16,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**April 27, 2021:** Automating reasoning about the future: Language models as research tools, [Andreas Stuhlmüller](https://stuhlmueller.org/)
+**April 27, 2021:** [Automating reasoning about the future: Language models as research tools](https://www.youtube.com/watch?v=BZJ9xSXTvZI&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Andreas Stuhlmüller](https://stuhlmueller.org/)
 
 **April 20, 2021:** [Open Source Game Theory: What AI and Decentralized Technologies Need to Learn from Each Other](https://www.youtube.com/watch?v=itMol0zPN00&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Andrew Critch](http://acritch.com/)
 
