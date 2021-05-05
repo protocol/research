@@ -6,15 +6,17 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**May 4, 2021:** [SoK: Tools for game theoretic models of security for cryptocurrencies](https://research.protocol.ai/publications/sok-tools-for-game-theoretic-models-of-security-for-cryptocurrencies/), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
-
 **May 11, 2021:** [Post-Quantum Succinct Arguments](https://eprint.iacr.org/2021/334.pdf), Nick Spooner, 17:00 UTC
 
 **May 20, 2021:**  [Future privacy: A real right to privacy for artificial intelligence](https://www.elgaronline.com/view/edcoll/9781786439048/9781786439048.00023.xml), [Sakoyo Blodgett-Ford](https://www.bc.edu/bc-web/schools/law/academics-faculty/faculty-directory/sayoko-blodgett-ford.html), 17:00 UTC
 
+**June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.usenix.org/system/files/atc20-yuan.pdf), [Gina Yuan](http://www.ginayuan.com/), 17:00 UTC
+
 ## Past Talks
 
 ### 2021
+
+**May 4, 2021:** [SoK: Tools for game theoretic models of security for cryptocurrencies](https://www.youtube.com/watch?v=NKRTZpKY2Gw), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/)
 
 **April 27, 2021:** [Automating reasoning about the future: Language models as research tools](https://www.youtube.com/watch?v=BZJ9xSXTvZI&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Andreas Stuhlmüller](https://stuhlmueller.org/)
 
