@@ -10,6 +10,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **May 20, 2021:**  [Future privacy: A real right to privacy for artificial intelligence](https://www.elgaronline.com/view/edcoll/9781786439048/9781786439048.00023.xml), [Sakoyo Blodgett-Ford](https://www.bc.edu/bc-web/schools/law/academics-faculty/faculty-directory/sayoko-blodgett-ford.html), 17:00 UTC
 
+**May 25, 2021:** [The Good, the Bad and the Ugly: Pitfalls and Best Practices in Automated Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/pdf/2101.05735.pdf), Clara Schneidewind, 17:00 UTC
+
 **June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.usenix.org/system/files/atc20-yuan.pdf), [Gina Yuan](http://www.ginayuan.com/), 17:00 UTC
 
 ## Past Talks
