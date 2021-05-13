@@ -1,4 +1,4 @@
-# Protocol Labs - Research
+# Protocol Labs Research
 [![](https://img.shields.io/badge/team-research-0f41f4.svg?style=flat-square)](https://github.com/protocol/research)
 
 > :rocket: Making Protocol Labs Protocol _Labs_.
@@ -6,9 +6,6 @@
 Welcome to the main research landing and launch repo. This is a companion to the [Protocol Labs Research website](https://research.protocol.ai/), which is the primary public reference for our work.
 
 Our mission is to pursue open, collaborative, high-impact research that pushes the boundaries of what computing can do for humanity.
-
-#### Maintainer
- [Evan Miyazono](https://github.com/miyazono)
 
 # What's in This Repo?
 
@@ -32,7 +29,7 @@ In general, research ideas start here as responses to important questions, and t
 There are two public structural repos that contain directories, instructions, or other information needed for performing research at PL.
 
 
-### [protocol/research-RFPs](https://github.com/protocol/research-RFPs)
+### [protocol/research-grants](https://github.com/protocol/research-RFPs)
  - contains grant information and RFPs for applicants
 
 ### [protocol/research]  **(this repo)**
