@@ -9,7 +9,7 @@ Our mission is to pursue open, collaborative, high-impact research that pushes t
 
 # What's in This Repo?
 
-📋 This repo contains a directory and explanation of the structure of public research at Protocol Labs.  While not all Protocol Labs research will begin in this repository under public scrutiny, most will.  In addition, only under extreme circumstances will we ever make private any progress on a project that was at any point made public.
+📋 This repo contains a directory and explanation of the structure of public research at Protocol Labs.
 
 🎙️ In addition, this repo houses a complete [list of past and upcoming research seminars](https://github.com/protocol/research/blob/master/research-events/research-seminars.md) and our [code of conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md) for all public research events. You can suggest a topic or spreaker for our seminar series using this [issue template](https://github.com/protocol/research/blob/master/.github/ISSUE_TEMPLATE/research-seminar-suggestion.md). 
 
