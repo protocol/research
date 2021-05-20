@@ -9,18 +9,20 @@ Our mission is to pursue open, collaborative, high-impact research that pushes t
 
 # What's in This Repo?
 
-This repo contains a directory and explanation of the structure of public research at Protocol Labs.  While not all Protocol Labs research will begin in this repository under public scrutiny, most will.  In addition, only under extreme circumstances will we ever make private any progress on a project that was at any point made public.
+📋 This repo contains a directory and explanation of the structure of public research at Protocol Labs.  While not all Protocol Labs research will begin in this repository under public scrutiny, most will.  In addition, only under extreme circumstances will we ever make private any progress on a project that was at any point made public.
 
-In addition, this repo houses a complete [list of past and upcoming research seminars](https://github.com/protocol/research/blob/master/research-events/research-seminars.md) and our [code of conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md) for all public research events.
+🎙️ In addition, this repo houses a complete [list of past and upcoming research seminars](https://github.com/protocol/research/blob/master/research-events/research-seminars.md) and our [code of conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md) for all public research events. You can suggest a topic or spreaker for our seminar series using this [issue template](https://github.com/protocol/research/blob/master/.github/ISSUE_TEMPLATE/research-seminar-suggestion.md). 
 
-This repo also contains a list of **Open Problem Statements** in the issues and serves as a workplace and dicussion venue for those problems.
-Our **Research Development Labs** host Open Problems relevant to their research in their respective Lab repos:
+📝 This repo also contains a list of **Open Problem Statements** in the issues and serves as a workplace and dicussion venue for those problems.
+Our **Research Development Labs** and **AbstractionLab** host Open Problems relevant to their research in their respective Lab repos:
 -  [AbstractionLab](https://github.com/protocol/AbstractionLab)
 -  CryptoComputeLab
 -  CryptoEconLab
 -  [CryptoNetLab](https://github.com/protocol/CryptoNetLab)
 -  [ResNetLab](https://github.com/protocol/ResNetLab).
 
+
+🎤 This repo also houses a [**Discussion Board**](https://github.com/protocol/research/discussions) where Open Problem statements can be formulated and refined. This  board is also the appropriate venue for discussions related to [metaresearch](https://research.protocol.ai/areas/metaresearch/): this includes roadmapping, knowledge management and dissemination, the history and economics of science, and the statistical validation of scientific findings,  among other topics. We plan the [MetaRsearch Journal Club](https://github.com/protocol/research/discussions/categories/metaresearch-journal-club) here as well. Topics that are aligned with PL Research but don't fit neatly in existing Lab repos ( e.g. AI, augmented reality, AR/VR, and brain-computer interfaces) are also appropriate for the [PL Research Discussion Board](https://github.com/protocol/research/discussions).
 
 Subscribe to this repo if you want to be updated about new research ideas and discussions. If you want to closely follow the work of Protocol Labs Research, however, we strongly suggest also subscribing to [our official mailing list](https://protocol.us4.list-manage.com/subscribe?MERGE0=&u=09d704b0125b11d44d67d4617&id=7aa0f1150b&subscribe=) for quarterly newsletters, funding opportunity announcements (FOAs), research talk announcements, and more (customizable subscription preferences). 
 
@@ -59,7 +61,7 @@ There are two public structural repos that contain directories, instructions, or
 Open problem statements are to be created by anyone in the community as issues in this repo, and should be used to prompt and focus discussion and investigation. The purpose of an open problem statement is twofold:
 1. Firstly, it should convince the reader that the problem you are presenting is worth working on.  
 2. Secondly, it should provide enough background and understanding of the problem that all design decisions and requirements are comprehensively described and motivated. 
-Feel free to deviate from the issue template if you prefer, or answer the following questions as succinctly as possible for an easy open problem statement.
+Feel free to deviate from the [issue template](https://github.com/protocol/research/blob/add-metaresearch/.github/ISSUE_TEMPLATE/open-problem.md) if you prefer, or answer the following questions as succinctly as possible for an easy open problem statement.
 
 While this template was made to support the RFP program, the open problem statements themselves are purely for the benefit of the community, and there is no obligation to make an RFP for each open problem.
 
