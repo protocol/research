@@ -8,6 +8,12 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.usenix.org/system/files/atc20-yuan.pdf), [Gina Yuan](http://www.ginayuan.com/), 17:00 UTC
 
+**June 15, 2021:** Topic TBD, [Ania Piotrowska](https://aniampio.github.io/), 15:00 UTC
+
+**June 22, 2021:** [Haschached Reputation](https://arxiv.org/abs/2012.10825), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/), 17:30 UTC
+
+**June 29, 2021:** Decentralized Exchanges, [Alfred Lehar](https://people.ucalgary.ca/~alehar/), 17:00 UTC
+
 ## Past Talks
 
 ### 2021
