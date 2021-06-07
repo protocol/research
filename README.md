@@ -82,7 +82,7 @@ While the [template](https://github.com/protocol/research/blob/add-metaresearch/
 Start with the list of problems (logbook) in the issues of this repo.  Post your thoughts on that issue and help develop potential solutions.  If the project reaches the point of prototyping solutions, propose making a repo for it and copy over the relevant items.
 
 ### Turning a problem into an RFP or bounty
-1. Start by writing up the problem statement in Markdown or LaTeX, which should include sections motivating the problem, describing and distinguishing the ideal solution from similar existing systems, defining terms and data structures, and listing constraints. 
+1. Start by writing up the problem statement, which should include sections motivating the problem, describing and distinguishing the ideal solution from similar existing systems, defining terms and data structures, and listing constraints. The problem statement may be composed directly in Markdown using the [template](https://github.com/protocol/research/blob/add-metaresearch/.github/ISSUE_TEMPLATE/open-problem.md), or attached to an Open Problem issue as a publicly editable document.
  
 2. Then create an issue for discussing the scale and importance of the problem so that a timeline and size for the bounty/grant can be determined.  If, at any point in this process, the problem grows quite large, it's possible that the problem, discussion, and problem statement can move out of [research](https://github.com/protocol/research) and into its own repo.  Otherwise, the problem statement and discussion of scale and importance should take place in one of the aforementioned two repositories.  
 
