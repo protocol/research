@@ -16,11 +16,10 @@ Our mission is to pursue open, collaborative, high-impact research that pushes t
 📝 This repo also contains a list of **Open Problem Statements** in the issues and serves as a workplace and dicussion venue for those problems.
 Our **Research Development Labs** and **AbstractionLab** host Open Problems relevant to their research in their respective Lab repos:
 -  [AbstractionLab](https://github.com/protocol/AbstractionLab)
-<!-- -  🚧 CryptoComputeLab
--  🚧 CryptoEconLab -->
 -  [CryptoNetLab](https://github.com/protocol/CryptoNetLab)
 -  [ResNetLab](https://github.com/protocol/ResNetLab)
-
+-  <!-- -  🚧 CryptoComputeLab
+-  🚧 CryptoEconLab -->
 
 🎤 This repo also houses a [**Discussion Board**](https://github.com/protocol/research/discussions) where Open Problem statements can be formulated and refined. This  board is also the appropriate venue for discussions related to [**metaresearch**](https://research.protocol.ai/areas/metaresearch/): this includes roadmapping, knowledge management and dissemination, the history and economics of science, and the statistical validation of scientific findings,  among other topics. We plan the [**MetaResearch Journal Club**](https://github.com/protocol/research/discussions/categories/metaresearch-journal-club) here as well. Topics that are aligned with PL Research but don't fit neatly in existing Lab repos ( e.g. AI, augmented reality, AR/VR, and brain-computer interfaces) are also appropriate for the [PL Research Discussion Board](https://github.com/protocol/research/discussions).
 
@@ -49,10 +48,10 @@ There are two public structural repos that contain directories, instructions, or
 The Research Development Labs and the AbstractionLab maintain their own github repositiories and discussion boards for topics relevantto their primary research interests:
 
 -  [AbstractionLab](https://github.com/protocol/AbstractionLab): decentralized knowledge graphs and operations on knowledge
-<!-- -  🚧 CryptoComputeLab: the intersection of applied cryptography, high performance computing, and programming language design
--  🚧 CryptoEconLab: economic incentives, coordination games, and novel marketplaces -->
 -  [CryptoNetLab](https://github.com/protocol/CryptoNetLab): public good cryptography -- creating secure building blocks for Web 3.0 protocols
 -  [ResNetLab](https://github.com/protocol/ResNetLab): building resilient distributed systems
+-  <!-- -  🚧 CryptoComputeLab: the intersection of applied cryptography, high performance computing, and programming language design
+-  🚧 CryptoEconLab: economic incentives, coordination games, and novel marketplaces -->
 
 ### Project-Specific Repos
 
