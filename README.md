@@ -45,7 +45,7 @@ There are two public structural repos that contain directories, instructions, or
  - contains links, the list of open problem statements (in the issues)
 
 ### Lab Repos
-The Research Development Labs and the AbstractionLab maintain their own github repositiories and discussion boards for topics relevantto their primary research interests:
+The Research Development Labs and the AbstractionLab maintain their own github repositiories and discussion boards for topics relevant to their primary research interests:
 
 -  [AbstractionLab](https://github.com/protocol/AbstractionLab): decentralized knowledge graphs and operations on knowledge
 -  [CryptoNetLab](https://github.com/protocol/CryptoNetLab): public good cryptography -- creating secure building blocks for Web 3.0 protocols
