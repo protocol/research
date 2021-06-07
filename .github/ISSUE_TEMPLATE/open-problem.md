@@ -23,28 +23,31 @@ While this template was made to support the RFP program, the open problem statem
 
 ## State of the Art
 
-This survey on the State of the Art is not by any means complete, however, it should provide a good entry point to learn what are the existing work. If you have something that is fundamentally missing, please consider submitting a PR to augment this survey. 
+This survey on the State of the Art does not have to be exhaustive but it should provide a good entry point to existing work on the topic. Later contributors can augment the survey via PR.
 
-### Within the _PROJECT_ Ecosystem
-> Existing attempts and strategies
+### Current approaches within the _PROJECT_ Ecosystem
+> Existing attempts and strategies to solve the problem within the context of the relevant PL project
 
-### Within the broad Research Ecosystem
-> How do people try to solve this problem?
+
+### Current approaches within the broader research ecosystem
+> How do people try to solve this problem more generally? 
+
 
 ### Known shortcomings of existing solutions
-> What are the limitations on those solutions?
+> What are the limitations of current solutions within the project ecosystem and elsewhere?
 
 ## Solving this Open Problem
 
-### What is the impact?
+### Estimated impact
 > How would we and/or the world benefit from solving this problem?
 
-### What defines a complete solution?
-> What hard constraints should it obey? Are there additional soft constraints that a solution would ideally obey?
+### Proposed solution definition
+> What defines a complete solution? What hard constraints should it obey? Are there additional "soft" constraints that a solution would ideally obey?
 
-## Other
+## Supplementary Material
 
-### Existing Conversations/Threads
-> Link to prior discussions relating to the problem
+### Existing conversations/threads
+> Link to prior discussions relevant to the problem
 
 ### Extra notes
+> anything else deemed relevant to the problem
