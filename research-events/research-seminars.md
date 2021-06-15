@@ -6,9 +6,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.usenix.org/system/files/atc20-yuan.pdf), [Gina Yuan](http://www.ginayuan.com/), 17:00 UTC
-
-**June 15, 2021:** [Incentivizing the next generation of privacy infrastructure](https://nymtech.net/nym-whitepaper.pdf), [Ania Piotrowska](https://aniampio.github.io/), 15:00 UTC
+**June 17, 2021:** [Incentivizing the next generation of privacy infrastructure](https://nymtech.net/nym-whitepaper.pdf), [Ania Piotrowska](https://aniampio.github.io/), 15:00 UTC
 
 **June 22, 2021:** [Haschached Reputation](https://arxiv.org/abs/2012.10825), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/), 17:30 UTC
 
@@ -18,7 +16,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**May 25, 2021:** [The Good, the Bad and the Ugly: Pitfalls and Best Practices in Automated Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/pdf/2101.05735.pdf), Clara Schneidewind [Recording forthcoming]
+**June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.usenix.org/system/files/atc20-yuan.pdf), [Gina Yuan](http://www.ginayuan.com/), (Recording upcoming)
+
+**May 25, 2021:** [The Good, the Bad and the Ugly: Pitfalls and Best Practices in Automated Sound Static Analysis of Ethereum Smart Contracts](https://www.youtube.com/watch?v=zPZ9bLXgons&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), Clara Schneidewind
 
 **May 20, 2021:**  [Future privacy: A real right to privacy for artificial intelligence](https://www.elgaronline.com/view/edcoll/9781786439048/9781786439048.00023.xml), [Sakoyo Blodgett-Ford](https://www.bc.edu/bc-web/schools/law/academics-faculty/faculty-directory/sayoko-blodgett-ford.html)
 
