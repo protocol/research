@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**June 17, 2021:** [Incentivizing the next generation of privacy infrastructure](https://nymtech.net/nym-whitepaper.pdf), [Ania Piotrowska](https://aniampio.github.io/), 15:00 UTC
-
 **June 22, 2021:** [Haschached Reputation](https://arxiv.org/abs/2012.10825), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/), 17:30 UTC
 
 **June 29, 2021:** Decentralized Exchanges, [Alfred Lehar](https://people.ucalgary.ca/~alehar/), 17:00 UTC
@@ -16,7 +14,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.usenix.org/system/files/atc20-yuan.pdf), [Gina Yuan](http://www.ginayuan.com/), (Recording upcoming)
+**June 17, 2021:** [Incentivizing the next generation of privacy infrastructure](https://www.youtube.com/watch?v=__c18DRYxag&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [Ania Piotrowska](https://aniampio.github.io/)
+
+**June 8, 2021:** [Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads](https://www.youtube.com/watch?v=JxkjhoaylDE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Gina Yuan](http://www.ginayuan.com/)
 
 **May 25, 2021:** [The Good, the Bad and the Ugly: Pitfalls and Best Practices in Automated Sound Static Analysis of Ethereum Smart Contracts](https://www.youtube.com/watch?v=zPZ9bLXgons&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), Clara Schneidewind
 
