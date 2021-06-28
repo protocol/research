@@ -6,13 +6,15 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**June 22, 2021:** [Haschached Reputation](https://arxiv.org/abs/2012.10825), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/), 17:30 UTC
-
 **June 29, 2021:** Decentralized Exchanges, [Alfred Lehar](https://people.ucalgary.ca/~alehar/), 17:00 UTC
+
+**August 3, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/), 17:00 UTC
 
 ## Past Talks
 
 ### 2021
+
+**June 22, 2021:** [Haschached Reputation](https://arxiv.org/abs/2012.10825), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/)
 
 **June 17, 2021:** [Incentivizing the next generation of privacy infrastructure](https://www.youtube.com/watch?v=__c18DRYxag&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [Ania Piotrowska](https://aniampio.github.io/)
 
