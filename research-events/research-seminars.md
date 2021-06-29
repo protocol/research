@@ -6,13 +6,23 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**June 29, 2021:** Decentralized Exchanges, [Alfred Lehar](https://people.ucalgary.ca/~alehar/), 17:00 UTC
-
 **August 3, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/), 17:00 UTC
+
+**August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://eprint.iacr.org/2020/1511.pdf), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html), 17:00 UTC
+
+**August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele giunta](https://software.imdea.org/people/emanuele.giunta/index.html) 17:00 UTC
+
+**September 7, 2021:** Topic TBD, Paul Schmitt, 17:00 UTC
+
+**September 14, 2021:** Topic TBD, [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), 17:00 UTC
+
+**September 28. 2021:** Topic TBD, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
 
 ## Past Talks
 
 ### 2021
+
+**June 29, 2021:** [Decentralized Exchanges](https://www.snb.ch/n/mmr/reference/sem_2021_05_20_lehar/source/sem_2021_05_20_lehar.n.pdf), [Alfred Lehar](https://people.ucalgary.ca/~alehar/)
 
 **June 22, 2021:** [Haschached Reputation](https://arxiv.org/abs/2012.10825), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/)
 
