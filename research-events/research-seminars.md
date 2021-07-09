@@ -6,9 +6,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**August 3, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/), 17:00 UTC
-
 **August 10, 2021:** GoAT: File Geolocation via Anchor Timestamping, [Deepak Maram](https://www.linkedin.com/in/deepakmaram/), 17:00 UTC
+
+**August 17, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/), 17:00 UTC
 
 **August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://eprint.iacr.org/2020/1511.pdf), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html), 17:00 UTC
 
