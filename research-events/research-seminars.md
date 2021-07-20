@@ -12,7 +12,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://eprint.iacr.org/2020/1511.pdf), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html), 17:00 UTC
 
-**August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele giunta](https://software.imdea.org/people/emanuele.giunta/index.html) 17:00 UTC
+**August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html) 17:00 UTC
 
 **September 7, 2021:** Topic TBD, Paul Schmitt, 17:00 UTC
 
