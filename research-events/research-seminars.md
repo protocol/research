@@ -18,6 +18,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 14, 2021:** Topic TBD, [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), 17:00 UTC
 
+**September 21, 2021:** Topic TBD, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
+
 **September 28. 2021:** Topic TBD, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
 
 ## Past Talks
