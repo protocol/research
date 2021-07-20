@@ -26,7 +26,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**June 29, 2021:** [Decentralized Exchanges](https://www.snb.ch/n/mmr/reference/sem_2021_05_20_lehar/source/sem_2021_05_20_lehar.n.pdf), [Alfred Lehar](https://people.ucalgary.ca/~alehar/)
+**June 29, 2021:** [Decentralized Exchanges](https://www.youtube.com/watch?v=HAeiamiGytw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alfred Lehar](https://people.ucalgary.ca/~alehar/)
 
 **June 22, 2021:** [Haschached Reputation](https://www.youtube.com/watch?v=SCYwM1w-G_Q&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Majid Khabbazian](https://sites.ualberta.ca/~mkhabbaz/)
 
