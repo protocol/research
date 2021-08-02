@@ -14,8 +14,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html) 17:00 UTC
 
-**September 7, 2021:** Topic TBD, Paul Schmitt, 17:00 UTC
-
 **September 14, 2021:** Topic TBD, [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), 17:00 UTC
 
 **September 21, 2021:** Topic TBD, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
