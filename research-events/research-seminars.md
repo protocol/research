@@ -22,7 +22,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
-**August 17, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/), 17:00 UTC
+**August 17, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/)
 
 **August 10, 2021:** [GoAT: File Geolocation via Anchor Timestamping](https://www.youtube.com/watch?v=801MXx9-ZG0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [Deepak Maram](https://www.linkedin.com/in/deepakmaram/)
 
