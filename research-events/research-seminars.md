@@ -20,7 +20,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 21, 2021:** Topic TBD, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
 
-**September 28. 2021:** OPE and SPIR secure against a malicious sender, with sublinear communications, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
+**September 28. 2021:** OPE and SPIR Secure Against a Malicious Sender, with Sublinear Communications, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
 
 ## Past Talks
 
