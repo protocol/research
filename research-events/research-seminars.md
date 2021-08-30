@@ -18,7 +18,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/)
 
-**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590], [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), 17:00 UTC
+**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), 17:00 UTC
 
 **October 12, 2021** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063), [Shahar Papini](https://starkware.co/team/shahar-papini/), 17:00 UTC
 
