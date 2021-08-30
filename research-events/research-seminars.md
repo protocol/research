@@ -14,7 +14,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 21, 2021:** Topic TBD, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
 
-**September 28. 2021:** OPE and SPIR Secure Against a Malicious Sender, with Sublinear Communications, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
+**September 28, 2021:** OPE and SPIR Secure Against a Malicious Sender, with Sublinear Communications, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
+
+**September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/)
 
 **October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590], [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), 17:00 UTC
 
