@@ -14,7 +14,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
 
-**September 28, 2021:** OPE and SPIR Secure Against a Malicious Sender, with Sublinear Communications, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
+**September 28, 2021:** MyOPE-SPIR: Malicious Security for Oblivious Polynomial Evaluation, and additionally also for Symmetric Private Information Retrieval, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
 
 **September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/), 17:00 UTC
 
