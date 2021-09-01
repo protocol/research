@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html), 17:00 UTC
-
 **September 7, 2021:** Private Attacks in Longest Chain Proof-of-stake Protocols with Single Secret Leader Elections, [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
 
 **September 14, 2021:** Topic TBD, [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), 17:00 UTC
@@ -27,6 +25,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html)
 
 **August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://eprint.iacr.org/2020/1511.pdf), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html)
 
