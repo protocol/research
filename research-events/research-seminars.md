@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**September 7, 2021:** Private Attacks in Longest Chain Proof-of-stake Protocols with Single Secret Leader Elections, [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/), 17:00 UTC
-
 **September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://eprint.iacr.org/2021/176), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), 17:00 UTC
 
 **September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
@@ -25,6 +23,8 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 ## Past Talks
 
 ### 2021
+
+**September 7, 2021:** [Private Attacks in Longest Chain Proof-of-stake Protocols with Single Secret Leader Elections](https://www.youtube.com/watch?v=5u5u6nzfKyg&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/)
 
 **August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html)
 
