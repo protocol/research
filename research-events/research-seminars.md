@@ -6,19 +6,19 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://eprint.iacr.org/2021/176), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), 17:00 UTC
+**September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://eprint.iacr.org/2021/176), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2h2YnBlZzZrbWtocHVuMHB2NDhpNmxrNm8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), 17:00 UTC
+**September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXJ1czhlMTJnNnVuYWcza2Vqc2kyYzVzc2ogcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**September 28, 2021:** MyOPE-SPIR: Malicious Security for Oblivious Polynomial Evaluation, and additionally also for Symmetric Private Information Retrieval, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), 17:00 UTC
+**September 28, 2021:** MyOPE-SPIR: Malicious Security for Oblivious Polynomial Evaluation, and additionally also for Symmetric Private Information Retrieval, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTU5dnZjdGZ0bzhqazJncHNkdnZkbzhwbHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/), 17:00 UTC
+**September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGdyY2s4bGhic2t0MDZkZDUyMWhtdmhocG8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), 17:00 UTC
+**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBsMTg5cDA0djNtaWdmY2dndW02bjBnZW8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**October 12, 2021** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063), [Shahar Papini](https://starkware.co/team/shahar-papini/), 17:00 UTC
+**October 12, 2021** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063), [Shahar Papini](https://starkware.co/team/shahar-papini/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2lkYnQzb3VwOGpidmhyNjE3cDk2aHFub2wgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**October 26, 2021** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), 17:00 UTC
+**October 26, 2021** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZ2YjNzZ3R1ZWI2OWdxcTkwamRtaGJxNmsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
