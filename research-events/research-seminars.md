@@ -10,7 +10,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXJ1czhlMTJnNnVuYWcza2Vqc2kyYzVzc2ogcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**September 28, 2021:** MyOPE-SPIR: Malicious Security for Oblivious Polynomial Evaluation, and additionally also for Symmetric Private Information Retrieval, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTU5dnZjdGZ0bzhqazJncHNkdnZkbzhwbHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**September 28, 2021:** MyOPE: Malicious securitY for Oblivious Polynomial Evaluation, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTU5dnZjdGZ0bzhqazJncHNkdnZkbzhwbHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGdyY2s4bGhic2t0MDZkZDUyMWhtdmhocG8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
