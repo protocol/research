@@ -6,8 +6,6 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://eprint.iacr.org/2021/176), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2h2YnBlZzZrbWtocHVuMHB2NDhpNmxrNm8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXJ1czhlMTJnNnVuYWcza2Vqc2kyYzVzc2ogcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **September 28, 2021:** MyOPE: Malicious securitY for Oblivious Polynomial Evaluation, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTU5dnZjdGZ0bzhqazJncHNkdnZkbzhwbHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
@@ -24,9 +22,11 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ### 2021
 
+**September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://eprint.iacr.org/2021/176), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html)
+
 **September 7, 2021:** [Private Attacks in Longest Chain Proof-of-stake Protocols with Single Secret Leader Elections](https://www.youtube.com/watch?v=5u5u6nzfKyg&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/)
 
-**August 31, 2021:** Efficient and Universally Composable Single Secret Leader Election from Pairings, [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html)
+**August 31, 2021:** [Efficient and Universally Composable Single Secret Leader Election from Pairings](https://www.youtube.com/watch?v=O6iWa2WXUnQ&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html)
 
 **August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://eprint.iacr.org/2020/1511.pdf), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html)
 
