@@ -28,9 +28,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **August 31, 2021:** [Efficient and Universally Composable Single Secret Leader Election from Pairings](https://www.youtube.com/watch?v=O6iWa2WXUnQ&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [Emanuele Giunta](https://software.imdea.org/people/emanuele.giunta/index.html)
 
-**August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://eprint.iacr.org/2020/1511.pdf), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html)
+**August 24, 2021:** [Balancing Privacy and Accountability in Blockchain Identity Management](https://www.youtube.com/watch?v=totqjbvgR44&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=6&t=2s), [Hamidreza Khoshakhlagh](https://pure.au.dk/portal/en/persons/hamidreza-khoshakhlagh(9a80e5ba-1de1-4c80-8e1f-c6ba5edc226f)/publications.html)
 
-**August 17, 2021:** [YOSO: You Only Speak Once](https://eprint.iacr.org/2021/210.pdf), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/)
+**August 17, 2021:** [YOSO: You Only Speak Once](https://www.youtube.com/watch?v=XKFtC6u96Ss&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=5), [Sophia Yakoubov](http://web.mit.edu/sonka89/www/)
 
 **August 10, 2021:** [GoAT: File Geolocation via Anchor Timestamping](https://www.youtube.com/watch?v=801MXx9-ZG0&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG), [Deepak Maram](https://www.linkedin.com/in/deepakmaram/)
 
