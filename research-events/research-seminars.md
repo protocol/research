@@ -20,9 +20,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **September 28, 2021:** MyOPE: Malicious securitY for Oblivious Polynomial Evaluation, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr)
 
-**September 21, 2021:** A Survey of Rational Proofs, [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/)
+**September 21, 2021:** [A Survey of Rational Proofs](https://www.youtube.com/watch?v=_Q-wSa2W4lw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/)
 
-**September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://eprint.iacr.org/2021/176), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html)
+**September 14, 2021:** [Blitz: Secure Multi-Hop Payments Without Two-Phase Commits](https://www.youtube.com/watch?v=4l4KfmWBTJA&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Pedro Moreno-Sánchez](https://software.imdea.org/people/pedro.moreno/index.html)
 
 **September 7, 2021:** [Private Attacks in Longest Chain Proof-of-stake Protocols with Single Secret Leader Elections](https://www.youtube.com/watch?v=5u5u6nzfKyg&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Sarah Azouvi](https://research.protocol.ai/authors/sarah-azouvi/)
 
