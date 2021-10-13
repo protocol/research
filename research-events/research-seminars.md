@@ -6,19 +6,19 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBsMTg5cDA0djNtaWdmY2dndW02bjBnZW8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**October 12, 2021** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063), [Shahar Papini](https://starkware.co/team/shahar-papini/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2lkYnQzb3VwOGpidmhyNjE3cDk2aHFub2wgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **October 26, 2021** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZ2YjNzZ3R1ZWI2OWdxcTkwamRtaGJxNmsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
 ### 2021
 
+**October 12, 2021** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063), [Shahar Papini](https://starkware.co/team/shahar-papini/)
+
+**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://youtu.be/AhSlEHlzleU), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/)
+
 **September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://eprint.iacr.org/2021/1101), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/)
 
-**September 28, 2021:** MyOPE: Malicious securitY for Oblivious Polynomial Evaluation, [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr)
+**September 28, 2021:** [MyOPE: Malicious securitY for Oblivious Polynomial Evaluation](https://youtu.be/kpJuKq2bUVM), [Paola de Perthuis](https://www.linkedin.com/in/paola-de-perthuis-659a04111/?originalSubdomain=fr)
 
 **September 21, 2021:** [A Survey of Rational Proofs](https://www.youtube.com/watch?v=_Q-wSa2W4lw&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Rosario Gennaro](https://research.protocol.ai/authors/rosario-gennaro/)
 
