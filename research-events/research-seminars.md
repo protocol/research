@@ -6,11 +6,9 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 ## Upcoming Talks
 
-**November 16, 2021** Topic TBD, [Siddarth Garg](https://engineering.nyu.edu/faculty/siddharth-garg), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnY2bWpvMG9rMzUyY3U1cXNhcDBmajNkYWEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**November 30, 2021** [Cryptosat - Secure Computing in Space using CubeSats](https://dl.acm.org/doi/10.1145/3139324.3139333), [Yan Michalevsky](https://cryptosat.io/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDRxZzJic3I5OWxpMGJkY3MzMDRhNDVqa3AgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **December 7, 2021** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZ2YjNzZ3R1ZWI2OWdxcTkwamRtaGJxNmsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
+**December 9, 2021** [Cryptosat - Secure Computing in Space using CubeSats](https://dl.acm.org/doi/10.1145/3139324.3139333), [Yan Michalevsky](https://cryptosat.io/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDVpYmgwMmk5bzlwOG9tM24zbHVjZm1iZGwgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
