@@ -12,7 +12,7 @@ If you would like to receive emails with talk announcements and Zoom link, pleas
 
 **January 25, 2022** [VerLoc: Verifiable Localization in Decentralized Systems](https://arxiv.org/abs/2105.11928), [Katharina Kohls](https://kkohls.org/), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2Vqa3B0bGdqNjkzNTBrNnZzaWdhOXIwM2EgcHJvdG9jb2wuYWlfb2JhN2wxNGNrOTRmZmYxcGhmczJuOWowMGNAZw&tmsrc=protocol.ai_oba7l14ck94fff1phfs2n9j00c%40group.calendar.google.com)
 
-**January 27, 2022** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZ2YjNzZ3R1ZWI2OWdxcTkwamRtaGJxNmsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**January 27, 2022** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZ2YjNzZ3R1ZWI2OWdxcTkwamRtaGJxNmsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
