@@ -14,16 +14,17 @@ Our mission is to pursue open, collaborative, high-impact research that pushes t
 🎙️ In addition, this repo houses a complete [list of past and upcoming research seminars](https://github.com/protocol/research/blob/master/research-events/research-seminars.md) and our [code of conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md) for all public research events. You can suggest a topic or spreaker for our seminar series using this [issue template](https://github.com/protocol/research/blob/master/.github/ISSUE_TEMPLATE/research-seminar-suggestion.md). 
 
 📝 This repo also contains a list of **Open Problem Statements** in the issues and serves as a workplace and dicussion venue for those problems.
-Our **Research Development Labs** and **AbstractionLab** host Open Problems relevant to their research in their respective Lab repos:
+Our **Research Labs** host Open Problems relevant to their research in their respective Lab repos:
 -  [AbstractionLab](https://github.com/protocol/AbstractionLab)
+-  [ConsensusLab](https://github.com/protocol/ConsensusLab)
+-  [CryptoComputeLab](https://github.com/protocol/CryptoComputeLab)
 -  [CryptoNetLab](https://github.com/protocol/CryptoNetLab)
 -  [ResNetLab](https://github.com/protocol/ResNetLab)
--  [CryptoComputeLab](https://github.com/protocol/CryptoComputeLab)
 
 
 🎤 This repo also houses a [**Discussion Board**](https://github.com/protocol/research/discussions) where Open Problem statements can be formulated and refined. This  board is also the appropriate venue for discussions related to [**metaresearch**](https://research.protocol.ai/areas/metaresearch/): this includes roadmapping, knowledge management and dissemination, the history and economics of science, and the statistical validation of scientific findings,  among other topics. We plan the [**MetaResearch Journal Club**](https://github.com/protocol/research/discussions/categories/metaresearch-journal-club) here as well. Topics that are aligned with PL Research but don't fit neatly in existing Lab repos ( e.g. AI, augmented reality, AR/VR, and brain-computer interfaces) are also appropriate for the [PL Research Discussion Board](https://github.com/protocol/research/discussions).
 
-Subscribe to this repo if you want to be updated about new research ideas and discussions. If you want to closely follow the work of Protocol Labs Research, however, we strongly suggest also subscribing to [our official mailing list](https://protocol.us4.list-manage.com/subscribe?MERGE0=&u=09d704b0125b11d44d67d4617&id=7aa0f1150b&subscribe=) for quarterly newsletters, funding opportunity announcements (FOAs), research talk announcements, and more (customizable subscription preferences). 
+Subscribe to this repo if you want to be updated about new research ideas and discussions. If you want to closely follow the work of Protocol Labs Research, however, we strongly suggest also subscribing to [our official mailing list](https://protocol.us4.list-manage.com/subscribe?MERGE0=&u=09d704b0125b11d44d67d4617&id=7aa0f1150b&subscribe=) for quarterly newsletters, funding opportunity announcements (FOAs), research talk announcements, and more (customizable subscription preferences). You may also want to [follow us on Twitter](https://twitter.com/ProtoResearch).
 
 
 ---
@@ -38,6 +39,7 @@ There are two public structural repos that contain directories, instructions, or
 
 ### [protocol/research-grants](https://github.com/protocol/research-RFPs)
  - contains grant information and RFPs for applicants
+ - you may also want to check out our [grant portal](https://grants.protocol.ai/)
 
 ### [protocol/research]  **(this repo)**
  - default location of all research topics before they've reached prototype stage
@@ -48,9 +50,10 @@ There are two public structural repos that contain directories, instructions, or
 The Research Development Labs and the AbstractionLab maintain their own github repositiories and discussion boards for topics relevant to their primary research interests:
 
 -  [AbstractionLab](https://github.com/protocol/AbstractionLab): decentralized knowledge graphs and operations on knowledge
+-  [ConsensusLab](https://github.com/protocol/ConsensusLab): consensus and blockchain scalability
+-  [CryptoComputeLab](https://github.com/protocol/CryptoComputeLab): the intersection of applied cryptography, high performance computing, and programming language design-  
 -  [CryptoNetLab](https://github.com/protocol/CryptoNetLab): public good cryptography -- creating secure building blocks for Web 3.0 protocols
 -  [ResNetLab](https://github.com/protocol/ResNetLab): building resilient distributed systems
--  [CryptoComputeLab](https://github.com/protocol/CryptoComputeLab): the intersection of applied cryptography, high performance computing, and programming language design
 
 
 ### Project-Specific Repos
