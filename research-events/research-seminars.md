@@ -16,7 +16,7 @@ The [Zoom link](https://protocol.zoom.us/j/99848627460) for all of the presentat
 
 **February 1, 2022** Bringing Secure Outsourced Deep Learning one Step Closer to Practicality. [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDF1dWp0am1tcWxsMDRmZ3N1aTJkdGlvMWcgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**February 3, 2022** [Filecoin Hierarchal Consensus Specification](https://github.com/protocol/ConsensusLab/blob/main/docs/b1.pdf), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3NndGd1NGNtMWlsYjdxNDA3b25zN2Z0cjUgam9yZ2VAcHJvdG9jb2wuYWk&tmsrc=jorge%40protocol.ai)
+**February 3, 2022** [Filecoin Hierarchical Consensus Specification](https://github.com/protocol/ConsensusLab/blob/main/docs/b1.pdf), [Alfonso de la Rocha](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3NndGd1NGNtMWlsYjdxNDA3b25zN2Z0cjUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://eprint.iacr.org/2021/1240.pdf), [Elena Pagnin](https://epagnin.github.io/bio/), [14:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm4xZHJrdXBuOXZsM3U1YWEyaDU1bms4cXUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
