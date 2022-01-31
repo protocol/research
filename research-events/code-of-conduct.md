@@ -72,7 +72,7 @@ If you prefer, you can contact one of the below team members separately:
 
 - jpgross (at] protocol [dot) ai
 - miyazono (at] protocol [dot) ai
-- karloa (at] protocol [dot) ai
+- karola [dot) kirsanow (at] protocol [dot) ai
 
 When contacting an individual directly, they will ask for explicit permission to share the details with the rest of the team. When not granted, they will keep details of the matters as confidential as possible (particularly private or identity information) but they may still share broad strokes as necessary to resolve the issue.
 
