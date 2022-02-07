@@ -8,21 +8,23 @@ The [Zoom link](https://protocol.zoom.us/j/99848627460) for all of the presentat
 
 ## Upcoming Talks
 
-**January 18, 2022** [Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://www.researchgate.net/profile/Mohammad_Mussadiq_Jalalzai/publication/344828409_Fast-HotStuff_A_Fast_and_Resilient_HotStuff_Protocol/links/6163b823ae47db4e57c08ab2/Fast-HotStuff-A-Fast-and-Resilient-HotStuff-Protocol.pdf), [Mohammad Jalalzai](https://blockchain.ubc.ca/people/mohammad-jalalzai), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWgzaDQxZmhqbW44a3JlNzBrYjlsOWk3MmEgcHJvdG9jb2wuYWlfb2JhN2wxNGNrOTRmZmYxcGhmczJuOWowMGNAZw&tmsrc=protocol.ai_oba7l14ck94fff1phfs2n9j00c%40group.calendar.google.com)
-
-**January 25, 2022** [VerLoc: Verifiable Localization in Decentralized Systems](https://arxiv.org/abs/2105.11928), [Katharina Kohls](https://kkohls.org/), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2Vqa3B0bGdqNjkzNTBrNnZzaWdhOXIwM2EgcHJvdG9jb2wuYWlfb2JhN2wxNGNrOTRmZmYxcGhmczJuOWowMGNAZw&tmsrc=protocol.ai_oba7l14ck94fff1phfs2n9j00c%40group.calendar.google.com)
-
-**January 27, 2022** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370.pdf), [Srinath Setty](http://srinathsetty.net/), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZ2YjNzZ3R1ZWI2OWdxcTkwamRtaGJxNmsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**February 1, 2022** Bringing Secure Outsourced Deep Learning one Step Closer to Practicality. [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDF1dWp0am1tcWxsMDRmZ3N1aTJkdGlvMWcgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**February 3, 2022** [Filecoin Hierarchical Consensus Specification](https://github.com/protocol/ConsensusLab/blob/main/docs/b1.pdf), [Alfonso de la Rocha](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3NndGd1NGNtMWlsYjdxNDA3b25zN2Z0cjUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3NndGd1NGNtMWlsYjdxNDA3b25zN2Z0cjUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://eprint.iacr.org/2021/1240.pdf), [Elena Pagnin](https://epagnin.github.io/bio/), [14:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm4xZHJrdXBuOXZsM3U1YWEyaDU1bms4cXUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **February 22, 2022** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://eprint.iacr.org/2021/256), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzlxcmJyOWRkNmE2a3NhcHVzdXE1NjJndG8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
+
+### 2022
+
+**February 3, 2022** [Filecoin Hierarchical Consensus Specification](https://youtu.be/G7d5KNRZdp0), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
+
+**February 1, 2022** [Bringing Secure Outsourced Deep Learning one Step Closer to Practicality](https://youtu.be/bUlJMytYnpE), [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg)
+
+**January 27, 2022** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://youtu.be/mY-LWXKsBLc), [Srinath Setty](http://srinathsetty.net/)
+
+**January 25, 2022** [VerLoc: Verifiable Localization in Decentralized Systems](https://youtu.be/nMMm-xqiTqI), [Katharina Kohls](https://kkohls.org/)
+
+**January 18, 2022** [Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://youtu.be/AVGD_AWf47g), [Mohammad Jalalzai](https://blockchain.ubc.ca/people/mohammad-jalalzai)
 
 ### 2021
 
