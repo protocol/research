@@ -8,13 +8,13 @@ The [Zoom link](https://protocol.zoom.us/j/99848627460) for all of the presentat
 
 ## Upcoming Talks
 
-**February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://eprint.iacr.org/2021/1240.pdf), [Elena Pagnin](https://epagnin.github.io/bio/), [14:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm4xZHJrdXBuOXZsM3U1YWEyaDU1bms4cXUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **February 22, 2022** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://eprint.iacr.org/2021/256), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzlxcmJyOWRkNmE2a3NhcHVzdXE1NjJndG8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
 ### 2022
+
+**February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://eprint.iacr.org/2021/1240.pdf), [Elena Pagnin](https://epagnin.github.io/bio/), video coming shortly
 
 **February 3, 2022** [Filecoin Hierarchical Consensus Specification](https://youtu.be/G7d5KNRZdp0), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
 
