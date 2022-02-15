@@ -10,7 +10,7 @@ The [Zoom link](https://protocol.zoom.us/j/99848627460) for all of the presentat
 
 **February 22, 2022** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://eprint.iacr.org/2021/256), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzlxcmJyOWRkNmE2a3NhcHVzdXE1NjJndG8gcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**March, 8, 2022** Topic TBD, [Joachim Neu](https://www.jneu.net/), 17:00 UTC
+**March 15, 2022** Topic TBD, [Joachim Neu](https://www.jneu.net/), 17:00 UTC
 
 ## Past Talks
 
