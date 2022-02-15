@@ -16,7 +16,7 @@ The [Zoom link](https://protocol.zoom.us/j/99848627460) for all of the presentat
 
 ### 2022
 
-**February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://eprint.iacr.org/2021/1240.pdf), [Elena Pagnin](https://epagnin.github.io/bio/), video coming shortly
+**February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://www.youtube.com/watch?v=UF4oy-fArU0), [Elena Pagnin](https://epagnin.github.io/bio/)
 
 **February 3, 2022** [Filecoin Hierarchical Consensus Specification](https://youtu.be/G7d5KNRZdp0), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
 
