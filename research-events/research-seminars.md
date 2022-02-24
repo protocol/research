@@ -8,7 +8,7 @@ The [Zoom link](https://protocol.zoom.us/j/99848627460) for all of the presentat
 
 ## Upcoming Talks
 
-**March 15, 2022** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/), 17:00 UTC
+**March 15, 2022** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTg5ZTBxazVwMm5iNm00aDM4bWI5cW01dGUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
