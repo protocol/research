@@ -8,9 +8,9 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**March 15, 2022** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTg5ZTBxazVwMm5iNm00aDM4bWI5cW01dGUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**March 15, 2022** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/), [18:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTg5ZTBxazVwMm5iNm00aDM4bWI5cW01dGUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**March 22, 2022** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), Subhra Mazumdar, 17:00 UTC
+**March 22, 2022** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), Subhra Mazumdar, 18:00 UTC
 
 ## Past Talks
 
