@@ -16,7 +16,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**February 22, 2022** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://youtu.be/Tr6beoLLXOg), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/)
+**February 22, 2022** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://eprint.iacr.org/2021/256), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/)
 
 **February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://www.youtube.com/watch?v=UF4oy-fArU0), [Elena Pagnin](https://epagnin.github.io/bio/)
 
