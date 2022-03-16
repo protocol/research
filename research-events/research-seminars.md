@@ -8,41 +8,41 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**March 22, 2022** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ozcjB0NjBiOXM1cmwwb2xiNXRrY2xjc3UgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ozcjB0NjBiOXM1cmwwb2xiNXRrY2xjc3UgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**April 12, 2022** Topic: TBD, Lion Heimbach, 16:00
+**April 12, 2022:** Topic: TBD, Lion Heimbach, 16:00
 
-**April 19, 2022** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), 16:00
+**April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), 16:00
 
-**April 26, 2022** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), 16:00 UTC
+**April 26, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), 16:00 UTC
 
 ## Past Talks
 
 ### 2022
 
-**March 15, 2022** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/) - video coming soon
+**March 15, 2022:** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/) - video coming soon
 
-**February 22, 2022** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://eprint.iacr.org/2021/256), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/)
+**February 22, 2022:** [Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC](https://eprint.iacr.org/2021/256), [Ghada Almashaqbeh](https://ghadaalmashaqbeh.github.io/)
 
-**February 8, 2022** [Count Me In! Extendability for Threshold Ring Signatures](https://www.youtube.com/watch?v=UF4oy-fArU0), [Elena Pagnin](https://epagnin.github.io/bio/)
+**February 8, 2022:** [Count Me In! Extendability for Threshold Ring Signatures](https://www.youtube.com/watch?v=UF4oy-fArU0), [Elena Pagnin](https://epagnin.github.io/bio/)
 
-**February 3, 2022** [Filecoin Hierarchical Consensus Specification](https://youtu.be/G7d5KNRZdp0), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
+**February 3, 2022:** [Filecoin Hierarchical Consensus Specification](https://youtu.be/G7d5KNRZdp0), [Alfonso de la Rocha](https://research.protocol.ai/authors/alfonso-delarocha/)
 
-**February 1, 2022** [Bringing Secure Outsourced Deep Learning one Step Closer to Practicality](https://youtu.be/bUlJMytYnpE), [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg)
+**February 1, 2022:** [Bringing Secure Outsourced Deep Learning one Step Closer to Practicality](https://youtu.be/bUlJMytYnpE), [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg)
 
-**January 27, 2022** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://youtu.be/mY-LWXKsBLc), [Srinath Setty](http://srinathsetty.net/)
+**January 27, 2022:** [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://youtu.be/mY-LWXKsBLc), [Srinath Setty](http://srinathsetty.net/)
 
-**January 25, 2022** [VerLoc: Verifiable Localization in Decentralized Systems](https://youtu.be/nMMm-xqiTqI), [Katharina Kohls](https://kkohls.org/)
+**January 25, 2022:** [VerLoc: Verifiable Localization in Decentralized Systems](https://youtu.be/nMMm-xqiTqI), [Katharina Kohls](https://kkohls.org/)
 
-**January 18, 2022** [Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://youtu.be/AVGD_AWf47g), [Mohammad Jalalzai](https://blockchain.ubc.ca/people/mohammad-jalalzai)
+**January 18, 2022:** [Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains](https://youtu.be/AVGD_AWf47g), [Mohammad Jalalzai](https://blockchain.ubc.ca/people/mohammad-jalalzai)
 
 ### 2021
 
-**December 9, 2021** [Cryptosat - Secure Computing in Space using CubeSats](https://dl.acm.org/doi/10.1145/3139324.3139333), [Yan Michalevsky](https://cryptosat.io/) & [Yonatan Winetraub](https://twitter.com/yowinetraub)
+**December 9, 2021:** [Cryptosat - Secure Computing in Space using CubeSats](https://dl.acm.org/doi/10.1145/3139324.3139333), [Yan Michalevsky](https://cryptosat.io/) & [Yonatan Winetraub](https://twitter.com/yowinetraub)
 
-**October 12, 2021** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://youtu.be/vVgHL5vpJxY), [Shahar Papini](https://starkware.co/team/shahar-papini/)
+**October 12, 2021:** [Cairo - a Turing-complete STARK-friendly CPU architecture](https://youtu.be/vVgHL5vpJxY), [Shahar Papini](https://starkware.co/team/shahar-papini/)
 
-**October 5, 2021** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://youtu.be/AhSlEHlzleU), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/)
+**October 5, 2021:** [RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://youtu.be/AhSlEHlzleU), [Aniket Kate](https://www.cs.purdue.edu/homes/akate/)
 
 **September 30, 2021:** [Differential Privacy in Constant Function Market Makers](https://youtu.be/bPD6JPgMdRs), [Tarun Chitra](https://www.linkedin.com/in/tarunchitra/)
 
