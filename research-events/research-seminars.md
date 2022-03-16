@@ -12,6 +12,12 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **March 22, 2022** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ozcjB0NjBiOXM1cmwwb2xiNXRrY2xjc3UgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**April 12, 2022** Topic: TBD, Lion Heimbach, 16:00
+
+**April 19, 2022** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), 16:00
+
+**April 26, 2022** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), 16:00 UTC
+
 ## Past Talks
 
 ### 2022
