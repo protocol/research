@@ -12,11 +12,11 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **April 5, 2022:** Topic: TBD, [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), 16:00 UTC
 
-**April 12, 2022:** Topic: TBD, Lion Heimbach, 16:00
-
 **April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), 16:00
 
 **April 26, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), 16:00 UTC
+
+**April 28, 2022:** Topic: TBD, Lioba Heimbach, 16:00
 
 ## Past Talks
 
