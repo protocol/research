@@ -10,13 +10,13 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ozcjB0NjBiOXM1cmwwb2xiNXRrY2xjc3UgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**April 5, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), 16:00 UTC
+**April 5, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWo1cDJoMHJlNnNtdTMyMGU5c3MzdGdxZWsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), 16:00
+**April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDNjbjBzdnJoanJwM2ZkMTloMTM2NGpha2EgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**April 26, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), 16:00 UTC
+**April 26, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mmw3azBpZHY2ZmRna2g2ZG00M2VqOWk3ODcgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), 16:00
+**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2duc29iOXZ2Y2cxdm45aGZxNXJyb2tnaHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
