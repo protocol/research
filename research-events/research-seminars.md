@@ -2,7 +2,7 @@
 
 If you would like to receive emails with talk announcements and Zoom link, please [sign up for talk announcements](https://protocol.us4.list-manage.com/subscribe?MERGE0=&u=09d704b0125b11d44d67d4617&id=7aa0f1150b&subscribe=) through our mailing list. You may also check out our talk calendar ([Google Calendar](https://calendar.google.com/calendar/u/0?cid=cHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), [iCal](https://calendar.google.com/calendar/ical/protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com/public/basic.ics)).
 
-The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the presentations is the same. Please try to join ~5 minutes before the start of the talk with your audio muted. Thank you!
+The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (Passcode: 416747) for all of the presentations is the same. Please try to join ~5 minutes before the start of the talk with your audio muted. Thank you!
 
 *NOTE: Attendees and speakers will act respectfully toward others in attendance, in accordance with the [Protocol Labs Research Code of Conduct](https://github.com/protocol/research/blob/master/research-events/code-of-conduct.md). Anyone who behaves disrespectfully, abusively, or otherwise inappropriately will be removed from the call and banned from future research seminars. If you have any questions about the code of conduct, please email research@protocol.ai.*
 
