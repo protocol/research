@@ -14,6 +14,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (Passcode: 416747) 
 
 **April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDNjbjBzdnJoanJwM2ZkMTloMTM2NGpha2EgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**April 21, 2022** [BlockSTM: Scaling Blockchain Execution \\by Turning Ordering Curse to a Performance Blessing](https://arxiv.org/abs/2203.06871), [Rati Gelashvili](http://www.cs.toronto.edu/~gelash/) & [Alexander Spiegelman](https://alexanderspiegelman.github.io/), 16:00 UTC
+
 **April 26, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mmw3azBpZHY2ZmRna2g2ZG00M2VqOWk3ODcgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2duc29iOXZ2Y2cxdm45aGZxNXJyb2tnaHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
