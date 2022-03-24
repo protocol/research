@@ -8,8 +8,6 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (Passcode: 416747) 
 
 ## Upcoming Talks
 
-**March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ozcjB0NjBiOXM1cmwwb2xiNXRrY2xjc3UgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **April 5, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWo1cDJoMHJlNnNtdTMyMGU5c3MzdGdxZWsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDNjbjBzdnJoanJwM2ZkMTloMTM2NGpha2EgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
@@ -25,6 +23,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (Passcode: 416747) 
 ## Past Talks
 
 ### 2022
+
+**March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2ozcjB0NjBiOXM1cmwwb2xiNXRrY2xjc3UgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **March 15, 2022:** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332), [Joachim Neu](https://www.jneu.net/) - video coming soon
 
