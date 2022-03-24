@@ -20,7 +20,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (Passcode: 416747) 
 
 **April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2duc29iOXZ2Y2cxdm45aGZxNXJyb2tnaHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**May 3, 2022:** Topic: TBD, [Vineet Pandey](https://vineetp13.github.io/), 1600 UTC
+**May 3, 2022:** Topic: TBD, [Vineet Pandey](https://vineetp13.github.io/), 16:00 UTC
 
 ## Past Talks
 
