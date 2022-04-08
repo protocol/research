@@ -20,6 +20,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (passcode: 416747) 
 
 **May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://vineetp13.github.io/), [Vineet Pandey](https://vineetp13.github.io/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NW4wYTZlc3JsNDI4bGRqdWVtMXVqZGJlczMgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**May 17, 2022:** Topic - TBD, [John Day](https://www.bu.edu/met/profile/john-day/), 16:00 UTC
+
 ## Past Talks
 
 ### 2022
