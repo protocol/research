@@ -8,8 +8,6 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (passcode: 416747) 
 
 ## Upcoming Talks
 
-**April 5, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWo1cDJoMHJlNnNtdTMyMGU5c3MzdGdxZWsgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDNjbjBzdnJoanJwM2ZkMTloMTM2NGpha2EgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **April 21, 2022** [BlockSTM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://arxiv.org/abs/2203.06871), [Rati Gelashvili](http://www.cs.toronto.edu/~gelash/) & [Alexander Spiegelman](https://alexanderspiegelman.github.io/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjdiZjBnbHUxNXFsdTkzcGlmY3Bnc2NvYTQgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
@@ -19,6 +17,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) (passcode: 416747) 
 **April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2duc29iOXZ2Y2cxdm45aGZxNXJyb2tnaHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://vineetp13.github.io/), [Vineet Pandey](https://vineetp13.github.io/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NW4wYTZlc3JsNDI4bGRqdWVtMXVqZGJlczMgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
+**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), 16:00 UTC
 
 **May 17, 2022:** Topic - TBD, [John Day](https://www.bu.edu/met/profile/john-day/), 16:00 UTC
 
