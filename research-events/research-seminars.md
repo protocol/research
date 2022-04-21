@@ -26,7 +26,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2)
 
-**March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://ieeexplore.ieee.org/abstract/document/9705551/authors#authors), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in) - video coming soon
+**March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://www.youtube.com/watch?v=6x0sv8kSptY&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in)
 
 **March 15, 2022:** [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://www.youtube.com/watch?v=5SOXPnV5m8g&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1&t=3s), [Joachim Neu](https://www.jneu.net/) & [Srivatsan Sridhar](https://ssrivatsan97.github.io/)
 
