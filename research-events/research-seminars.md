@@ -18,6 +18,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXIwNGQwazZtOTJ0b2ZwMXZrMDhwa2c5YzIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**May 17, 2022:** Influencing NFT Pricing on Secondary Markets: A case study of Vpunks, [Trent Davis](https://research.protocol.ai/authors/trent-davis/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpoNjc2cjM3dWJydmdrb2N1b2JvdmJxbWEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
 ## Past Talks
 
 ### 2022
