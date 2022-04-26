@@ -8,7 +8,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**April 26, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mmw3azBpZHY2ZmRna2g2ZG00M2VqOWk3ODcgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**Canceled - rescheduling** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mmw3azBpZHY2ZmRna2g2ZG00M2VqOWk3ODcgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2duc29iOXZ2Y2cxdm45aGZxNXJyb2tnaHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
