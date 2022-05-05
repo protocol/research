@@ -10,10 +10,6 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **Canceled - rescheduling** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/)
 
-**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba), [16:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2duc29iOXZ2Y2cxdm45aGZxNXJyb2tnaHAgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://vineetp13.github.io/), [Vineet Pandey](https://vineetp13.github.io/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NW4wYTZlc3JsNDI4bGRqdWVtMXVqZGJlczMgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2M5ZzcxNDBtNXYwNW9saGhuc2ppMmVzZGEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXIwNGQwazZtOTJ0b2ZwMXZrMDhwa2c5YzIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
@@ -26,9 +22,13 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**April 21, 2022:** [BlockSTM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://arxiv.org/abs/2203.06871), [Rati Gelashvili](http://www.cs.toronto.edu/~gelash/) & [Alexander Spiegelman](https://alexanderspiegelman.github.io/) - video coming soon
+**May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://vineetp13.github.io/), [Vineet Pandey](https://vineetp13.github.io/) - Video coming soon
 
-**April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://eprint.iacr.org/2022/104.pdf), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2) - video coming soon
+**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba) - Video coming soon
+
+**April 21, 2022:** [BlockSTM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://youtu.be/fK_V9Z1q10U), [Rati Gelashvili](http://www.cs.toronto.edu/~gelash/) & [Alexander Spiegelman](https://alexanderspiegelman.github.io/)
+
+**April 19, 2022:** [Minotaur: Multi-Resource Blockchain Consensus](https://youtu.be/GhpVDfhHvX0), [Xuechao Wang](https://ece.illinois.edu/about/directory/grad-students/xuechao2)
 
 **March 22, 2022:** [CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments](https://www.youtube.com/watch?v=6x0sv8kSptY&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Subhra Mazumdar](https://www.linkedin.com/in/mazumdar-subhra/?originalSubdomain=in)
 
