@@ -12,11 +12,13 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2M5ZzcxNDBtNXYwNW9saGhuc2ppMmVzZGEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXIwNGQwazZtOTJ0b2ZwMXZrMDhwa2c5YzIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer), [John Day](https://www.bu.edu/met/profile/john-day/) (part 1), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXIwNGQwazZtOTJ0b2ZwMXZrMDhwa2c5YzIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **May 24, 2022:** Influencing NFT Pricing on Secondary Markets: A case study of Vpunks, [Trent Davis](https://research.protocol.ai/authors/trent-davis/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpoNjc2cjM3dWJydmdrb2N1b2JvdmJxbWEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**June 21, 2022:** Topic TBD - [Oliver Sauter](https://twitter.com/blackforestboi), 16:00 UTC
+**June 9, 2022:** Topic TBD, John Day (part 2), 16:00 UTC
+
+**June 21, 2022:** [Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos](https://memex.garden/), [Oliver Sauter](https://twitter.com/blackforestboi), 16:00 UTC
 
 ## Past Talks
 
