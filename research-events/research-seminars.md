@@ -16,7 +16,9 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **May 24, 2022:** Influencing NFT Pricing on Secondary Markets: A case study of Vpunks, [Trent Davis](https://research.protocol.ai/authors/trent-davis/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpoNjc2cjM3dWJydmdrb2N1b2JvdmJxbWEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**June 9, 2022:** Topic TBD, John Day (part 2), 16:00 UTC
+**June 9, 2022:** Topic TBD, [John Day](https://www.bu.edu/met/profile/john-day/) (part 2), 16:00 UTC
+
+**June 14, 2022:** Topic TBD, Chrysa Stathakopoulou, 16:00 UTC
 
 **June 21, 2022:** [Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos](https://memex.garden/), [Oliver Sauter](https://twitter.com/blackforestboi), 16:00 UTC
 
