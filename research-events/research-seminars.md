@@ -22,11 +22,11 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov) - video coming soon
+**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://youtu.be/fK_V9Z1q10U), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov) - video coming soon
 
 **May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://youtu.be/8HPMbsA9too), [Vineet Pandey](https://vineetp13.github.io/)
 
-**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba)
+**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://youtu.be/0-wzWUNRtzE), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba)
 
 **April 21, 2022:** [BlockSTM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://youtu.be/fK_V9Z1q10U), [Rati Gelashvili](http://www.cs.toronto.edu/~gelash/) & [Alexander Spiegelman](https://alexanderspiegelman.github.io/)
 
