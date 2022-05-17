@@ -22,7 +22,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://youtu.be/fK_V9Z1q10U), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov) - video coming soon
+**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://youtu.be/fK_V9Z1q10U), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov)
 
 **May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://youtu.be/8HPMbsA9too), [Vineet Pandey](https://vineetp13.github.io/)
 
