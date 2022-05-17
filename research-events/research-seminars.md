@@ -8,15 +8,11 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**Canceled - rescheduling** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/)
-
-**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2M5ZzcxNDBtNXYwNW9saGhuc2ppMmVzZGEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer), [John Day](https://www.bu.edu/met/profile/john-day/) (part 1), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXIwNGQwazZtOTJ0b2ZwMXZrMDhwa2c5YzIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer) (part 1), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXIwNGQwazZtOTJ0b2ZwMXZrMDhwa2c5YzIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **May 24, 2022:** Influencing NFT Pricing on Secondary Markets: A case study of Vpunks, [Trent Davis](https://research.protocol.ai/authors/trent-davis/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpoNjc2cjM3dWJydmdrb2N1b2JvdmJxbWEgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**June 9, 2022:** Topic TBD, [John Day](https://www.bu.edu/met/profile/john-day/) (part 2), 16:00 UTC
+**June 9, 2022:** Back to the Future: Welcome to the RINAissance (part 2), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzFjZDA0Z3RzZmhkbzlpZXAxYTBhN2o1M2ogcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **June 14, 2022:** Topic TBD, Chrysa Stathakopoulou, 16:00 UTC
 
@@ -26,9 +22,11 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://vineetp13.github.io/), [Vineet Pandey](https://vineetp13.github.io/) - Video coming soon
+**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://github.com/amakelov/mandala), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov) - video coming soon
 
-**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba) - Video coming soon
+**May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://youtu.be/8HPMbsA9too), [Vineet Pandey](https://vineetp13.github.io/)
+
+**April 28, 2022:** [Eliminating Sandwich Attacks with the Help of Game Theory](https://tik-db.ee.ethz.ch/file/cd90e36cda8a9d21029fb91381ff5ae4/bmhdxbzywfgjpxqwgrzpkfkhhvnwgtpf.pdf), [Lioba Heimbach](https://disco.ethz.ch/members/hlioba)
 
 **April 21, 2022:** [BlockSTM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://youtu.be/fK_V9Z1q10U), [Rati Gelashvili](http://www.cs.toronto.edu/~gelash/) & [Alexander Spiegelman](https://alexanderspiegelman.github.io/)
 
