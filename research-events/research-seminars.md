@@ -10,7 +10,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **June 9, 2022:** Back to the Future: Welcome to the RINAissance (part 2), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzFjZDA0Z3RzZmhkbzlpZXAxYTBhN2o1M2ogcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**June 14, 2022:** Topic TBD, Chrysa Stathakopoulou, 16:00 UTC
+**June 14, 2022:** [State machine replication scalability made simple](https://dl.acm.org/doi/abs/10.1145/3492321.3519579), [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou), [16:00 UTC](https://dl.acm.org/doi/abs/10.1145/3492321.3519579)
 
 **June 21, 2022:** [Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos](https://memex.garden/), [Oliver Sauter](https://twitter.com/blackforestboi), 16:00 UTC
 
