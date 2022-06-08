@@ -18,9 +18,9 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**May 24, 2022:** Influencing NFT Pricing on Secondary Markets: A case study of Vpunks, [Trent Davis](https://research.protocol.ai/authors/trent-davis/)
+**May 24, 2022:** [Influencing NFT Pricing on Secondary Markets: A case study of Vpunks](https://youtu.be/oWXb_M1M7VQ), [Trent Davis](https://research.protocol.ai/authors/trent-davis/)
 
-**May 17, 2022:** [How in the Hell do you lose a layer!?](https://www.researchgate.net/publication/261458332_How_in_the_Heck_do_you_lose_a_layer) (part 1), [John Day](https://www.bu.edu/met/profile/john-day/)
+**May 17, 2022:** [How in the Hell do you lose a layer!?(part 1)](https://youtu.be/7K-LbUKt0i0), [John Day](https://www.bu.edu/met/profile/john-day/)
 
 **May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://youtu.be/fK_V9Z1q10U), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov)
 
