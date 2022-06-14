@@ -8,15 +8,17 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**June 9, 2022:** Back to the Future: Welcome to the RINAissance (part 2), [John Day](https://www.bu.edu/met/profile/john-day/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzFjZDA0Z3RzZmhkbzlpZXAxYTBhN2o1M2ogcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
-**June 14, 2022:** [State machine replication scalability made simple](https://dl.acm.org/doi/abs/10.1145/3492321.3519579), [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGFqaGc3YWs5c3NpazBkY2d2bG9qNHAyaTUgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **June 21, 2022:** [Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos](https://memex.garden/), [Oliver Sauter](https://twitter.com/blackforestboi), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGM3b29zaGpucGNiNHZicGUybjdiaXBxZnYgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
+**August 9, 2022:** Design of a Trustless Software Marketplace, [John Burnham](https://www.linkedin.com/in/john-burnham-01190a32), [16:00 UTC](
 
 ## Past Talks
 
 ### 2022
+
+**June 14, 2022:** State machine replication scalability made simple, [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou)
+
+**June 9, 2022:** Back to the Future: Welcome to the RINAissance (part 2), [John Day](https://www.bu.edu/met/profile/john-day/)
 
 **May 24, 2022:** [Influencing NFT Pricing on Secondary Markets: A case study of Vpunks](https://youtu.be/oWXb_M1M7VQ), [Trent Davis](https://research.protocol.ai/authors/trent-davis/)
 
