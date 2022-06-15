@@ -10,8 +10,6 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **June 21, 2022:** [Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos](https://memex.garden/), [Oliver Sauter](https://twitter.com/blackforestboi), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGM3b29zaGpucGNiNHZicGUybjdiaXBxZnYgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
-**August 9, 2022:** Design of a Trustless Software Marketplace, [John Burnham](https://www.linkedin.com/in/john-burnham-01190a32), [16:00 UTC](
-
 ## Past Talks
 
 ### 2022
