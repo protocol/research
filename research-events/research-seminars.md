@@ -18,7 +18,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **June 14, 2022:** State machine replication scalability made simple, [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou)
 
-**June 9, 2022:** Back to the Future: Welcome to the RINAissance (part 2), [John Day](https://www.bu.edu/met/profile/john-day/)
+**June 9, 2022:** [Back to the Future: Welcome to the RINAissance (part 2)](https://www.youtube.com/watch?v=lqEp7C5PQOQ), [John Day](https://www.bu.edu/met/profile/john-day/)
 
 **May 24, 2022:** [Influencing NFT Pricing on Secondary Markets: A case study of Vpunks](https://youtu.be/oWXb_M1M7VQ), [Trent Davis](https://research.protocol.ai/authors/trent-davis/)
 
