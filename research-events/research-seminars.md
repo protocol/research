@@ -16,7 +16,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**June 14, 2022:** State machine replication scalability made simple, [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou)
+**June 14, 2022:** [State machine replication scalability made simple](https://www.youtube.com/watch?v=zhu4b88wLKE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou)
 
 **June 9, 2022:** [Back to the Future: Welcome to the RINAissance (part 2)](https://www.youtube.com/watch?v=lqEp7C5PQOQ), [John Day](https://www.bu.edu/met/profile/john-day/)
 
