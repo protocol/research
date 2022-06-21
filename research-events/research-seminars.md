@@ -12,6 +12,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **June 28, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://arxiv.org/pdf/2202.01649.pdf), [Alexander Viand](https://pps-lab.com/people/alexanderviand/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzA2aDU4YmU5aDExYnIyMm9mOHNta2ptc2MgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**June 30, 2022:** Random Number Generation and Extraction, [Dr. Yevgeniy Dodis](https://cs.nyu.edu/~dodis/bio.txt), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGxibTM1aG8zMGVrbTZjN3BpOTRnZXV0NmggcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
 **August 9, 2022:** Design of a Trustless Software Marketplace, [John Burnham](https://www.linkedin.com/in/john-burnham-01190a32), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzcyYnBxdW5taGEwcWl0Z2wwZmw4Y2JwM2IgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
