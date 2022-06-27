@@ -98,9 +98,11 @@ Once posted, the Open Problem statement can be used as a reference for discussio
 
 While the [template](https://github.com/protocol/research/blob/add-metaresearch/.github/ISSUE_TEMPLATE/open-problem.md) was made to support the RFP program, the open problem statements themselves are purely for the benefit of the community, and there is no obligation to make an RFP for each open problem.
 
-### Current Open Problems
+----
 
-#### Private Retrieval 
+## Current Open Problems
+
+### Private Retrieval 
 
 We are looking for research and development of interactive private communication mechanisms.
 
@@ -109,23 +111,15 @@ Today, mixnet-like systems are the only mechanism with any sizable deployment fo
 Works we are interested in funding include those which:
 
 -   Explore new mechanisms for private communication (e.g. with cryptographic, information theoretic, or statistical basis)
-    
 -   Relax the traditional ‘web’ assumptions of a single origin to engage with the possibilities of pre-distributed CDN or content-addressed data.
-    
 -   Prototype the use of novel network-layer privacy technologies in real systems.
     
 
-  
-
 A selection of research works that we would have been excited to fund if we were running this program a decade ago include:
 
--   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian)
-    
+-   [Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy - Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian) 
 -   [Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis - OSDI 2018](https://www.usenix.org/conference/osdi18/presentation/lazar)
-    
 -   [PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval](https://www.usenix.org/conference/usenix-security-11/pir-tor-scalable-anonymous-communication-using-private-information)
-    
 -   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)
-    
 -   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)
 
