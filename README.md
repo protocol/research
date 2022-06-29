@@ -62,7 +62,8 @@ Additionally, many research teams and projects maintain public Notion pages wher
 -  ⚖️ [CryptoEconLab](https://www.notion.so/CryptoEconLab-2bd339628c95447b8a9f7df3e8cf8798)
 -  🤝  [ConsensusLab](https://www.notion.so/ConsensusLab-13dfe290f57c438eb03a3db52dbbb43c)
 -  🎣  [Retrieval Markets](https://www.notion.so/Retrieval-Markets-765a9388b86646f38f7a03ee90c9c6c4)
--   🐟 [Compute Over Data](https://www.notion.so/Compute-Over-Data-25fa366465ed4ddf81027498efb4a405)
+-  🐟 [Compute Over Data](https://www.notion.so/Compute-Over-Data-25fa366465ed4ddf81027498efb4a405)
+-  ⏱️ [Probelab](https://www.notion.so/pl-strflt/ProbeLab-Protocol-Benchmarking-Optimization-a63238fd1b184d6f8fea4bb38d975208)
 
 And for faster-paced conversations, you can reach **CryptoEconLab**, **ConsensusLab**, the **Retrieval Markets** team, and **Bacalhau (CoD)** on the public [Filecoin Slack](filecoinproject.slack.com).
 
@@ -74,7 +75,7 @@ The **Network Goods** 🧧 📈  team, which includes researchers working on inc
 - areas relevant to PL research (cryptography, distributed systems, consensus, cryptoeconomics)
 - and many other topics (urban planning! tools for thought! federated learning!)
 
-We also plan the [Journal Club](https://docs.google.com/spreadsheets/d/1A-rwJ2L0D7ujKiaKa8QqrKIUSMB5vdVLcKtVyOAguwU/edit?usp=sharing)and [Research Saloon](https://docs.google.com/spreadsheets/d/1lQXA8GjlCCeOg84SqY_kOaMv5fzxFcHM2UuWMAXp2tA/edit?usp=sharing) in the ✴️ Lodestar server. 
+We also plan the [Journal Club](https://docs.google.com/spreadsheets/d/1A-rwJ2L0D7ujKiaKa8QqrKIUSMB5vdVLcKtVyOAguwU/edit?usp=sharing) and [Research Saloon](https://docs.google.com/spreadsheets/d/1lQXA8GjlCCeOg84SqY_kOaMv5fzxFcHM2UuWMAXp2tA/edit?usp=sharing) in the ✴️ Lodestar server. 
 
 
 ## Open Problems
