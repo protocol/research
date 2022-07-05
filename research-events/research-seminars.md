@@ -8,6 +8,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
+**July 14, 2022:** [Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature](http://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis__What_and_Why.pdf), [Dr. Joel Chan](http://joelchan.me/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Y4djE5b3JrcWVwMTJ1cm45N3A4OHZtbDQgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
 **August 9, 2022:** Design of a Trustless Software Marketplace, [John Burnham](https://www.linkedin.com/in/john-burnham-01190a32), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzcyYnBxdW5taGEwcWl0Z2wwZmw4Y2JwM2IgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
