@@ -18,9 +18,9 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **June 30, 2022:** Random Number Generation and Extraction, [Dr. Yevgeniy Dodis](https://cs.nyu.edu/~dodis/bio.txt)
 
-**June 28, 2022:** HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption, [Alexander Viand](https://pps-lab.com/people/alexanderviand/)
+**June 28, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://www.youtube.com/watch?v=Wkluh79kFcU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alexander Viand](https://pps-lab.com/people/alexanderviand/)
 
-**June 21, 2022:** Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos, [Oliver Sauter](https://twitter.com/blackforestboi)
+**June 21, 2022:** [Introduction into Memex - A tool to collaboratively curate, annotate and discuss websites, PDFs and YouTube videos](https://www.youtube.com/watch?v=IFN7mUESGGY&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Oliver Sauter](https://twitter.com/blackforestboi)
 
 **June 14, 2022:** [State machine replication scalability made simple](https://www.youtube.com/watch?v=zhu4b88wLKE&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Chrysa Stathakopoulou](https://twitter.com/cstathakopoulou)
 
