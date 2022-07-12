@@ -80,29 +80,6 @@ We also plan the [Journal Club](https://docs.google.com/spreadsheets/d/1A-rwJ2L0
 
 ## Open Problems
 
-Our **Research Labs** host Open Problems relevant to their research in their respective Lab repos:
-- 🤝  [ConsensusLab](https://github.com/protocol/ConsensusLab)
-- ⚖️  [CryptoEconLab](https://github.com/protocol/CryptoEconLab)
--  🧮  [CryptoNetLab](https://github.com/protocol/CryptoNetLab)
-
-
-### Creating an Open Problem Statement
-Open problem statements can be created by anyone in the community as issues in this repo, and should be used to prompt and focus discussion and investigation. The purpose of an open problem statement is twofold:
-
-1. Firstly, it should convince the reader that the problem you are presenting is worth working on.  
-
-2. Secondly, it should provide enough background and understanding of the problem that all design decisions and requirements are comprehensively described and motivated. 
-
-Start by writing up the problem statement, which should include sections motivating the problem, describing and distinguishing the ideal solution from similar existing systems, defining terms and data structures, and listing constraints. The problem statement may be composed directly in Markdown using the [template](https://github.com/protocol/research/blob/add-metaresearch/.github/ISSUE_TEMPLATE/open-problem.md), or attached to an Open Problem issue as a publicly editable document.
-
-Once posted, the Open Problem statement can be used as a reference for discussions in faster-moving fora such as the Filecoin Slack or Lodestar Discord, or in  direct communications to relevant PL researchers.
-
-While the [template](https://github.com/protocol/research/blob/add-metaresearch/.github/ISSUE_TEMPLATE/open-problem.md) was made to support the RFP program, the open problem statements themselves are purely for the benefit of the community, and there is no obligation to make an RFP for each open problem.
-
-----
-
-## Current Open Problems
-
 ### Private Retrieval 
 
 We are looking for research and development of interactive private communication mechanisms.
@@ -124,3 +101,9 @@ A selection of research works that we would have been excited to fund if we were
 -   [Oblivious DNS: Practical Privacy for DNS Queries](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0028.pdf)
 -   [CryptDB: processing queries on an encrypted database](https://dl.acm.org/doi/abs/10.1145/2330667.2330691)
 
+### Research groups' open problems
+
+Our **Research Labs** host open problems relevant to their research in their respective repos:
+- 🤝  [ConsensusLab](https://github.com/protocol/ConsensusLab)
+- ⚖️  [CryptoEconLab](https://github.com/protocol/CryptoEconLab)
+- 🧮  [CryptoNetLab](https://github.com/protocol/CryptoNetLab)
