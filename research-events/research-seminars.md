@@ -30,7 +30,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **May 17, 2022:** [How in the Hell do you lose a layer!?(part 1)](https://youtu.be/7K-LbUKt0i0), [John Day](https://www.bu.edu/met/profile/john-day/)
 
-**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://youtu.be/fK_V9Z1q10U), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov)
+**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://www.youtube.com/watch?v=arI1dAYHlcU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov)
 
 **May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://youtu.be/8HPMbsA9too), [Vineet Pandey](https://vineetp13.github.io/)
 
