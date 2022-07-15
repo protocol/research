@@ -8,15 +8,15 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**July 14, 2022:** [Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature](http://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis__What_and_Why.pdf), [Dr. Joel Chan](http://joelchan.me/), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Y4djE5b3JrcWVwMTJ1cm45N3A4OHZtbDQgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
-
 **August 9, 2022:** Design of a Trustless Software Marketplace, [John Burnham](https://www.linkedin.com/in/john-burnham-01190a32), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzcyYnBxdW5taGEwcWl0Z2wwZmw4Y2JwM2IgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
 ### 2022
 
-**June 30, 2022:** Random Number Generation and Extraction, [Dr. Yevgeniy Dodis](https://cs.nyu.edu/~dodis/bio.txt)
+**July 14, 2022:** Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature, [Dr. Joel Chan](http://joelchan.me/)
+
+**June 30, 2022:** [Random Number Generation and Extraction](https://www.youtube.com/watch?v=UgQO-h8VDqs&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Dr. Yevgeniy Dodis](https://cs.nyu.edu/~dodis/bio.txt)
 
 **June 28, 2022:** [HECO: Automatic Code Optimizations for Efficient Fully Homomorphic Encryption](https://www.youtube.com/watch?v=Wkluh79kFcU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Alexander Viand](https://pps-lab.com/people/alexanderviand/)
 
@@ -30,7 +30,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **May 17, 2022:** [How in the Hell do you lose a layer!?(part 1)](https://youtu.be/7K-LbUKt0i0), [John Day](https://www.bu.edu/met/profile/john-day/)
 
-**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://www.youtube.com/watch?v=arI1dAYHlcU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov)
+**May 10, 2022:** [Mandala: a high-level data management language implemented in Python](https://www.youtube.com/watch?v=arI1dAYHlcU&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=2), [Aleksandar Makelov](https://simons.berkeley.edu/people/aleksandar-makelov)
 
 **May 3, 2022:** [Social Computing Systems to Deepen Public Contributions to Science](https://youtu.be/8HPMbsA9too), [Vineet Pandey](https://vineetp13.github.io/)
 
