@@ -16,7 +16,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**July 14, 2022:** Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature, [Dr. Joel Chan](http://joelchan.me/)
+**July 14, 2022:** [Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature](https://www.youtube.com/watch?v=53kLyq7PceQ&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Dr. Joel Chan](http://joelchan.me/)
 
 **June 30, 2022:** [Random Number Generation and Extraction](https://www.youtube.com/watch?v=UgQO-h8VDqs&list=PLhuBigpl7lqu6xWpiXtbEzJQtlMH1tqoG&index=1), [Dr. Yevgeniy Dodis](https://cs.nyu.edu/~dodis/bio.txt)
 
