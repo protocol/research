@@ -12,6 +12,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **August 16, 2022:** [The Nature and Nurturing of Research: A Modern Synthesis](https://discoveryresearch.org/), [Dr. Jeff Tsao](https://www.sandia.gov/-jytsao/), [17:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzIwZDlza2h1dTYwNTBtaDZ0bzVrcnZqcnIgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**August 30, 2022:** Blockchain-based IoT systems architectures: [Practical implementations in agriculture](https://ieeexplore.ieee.org/abstract/document/8373021), [Dr. Miguel Pincheira Caro](https://twitter.com/mpincheir), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmcyMWV1dW8wdXJkZGw5Z3JsMTNzbGY3YWYgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
 ## Past Talks
 
 ### 2022
