@@ -14,7 +14,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ### 2022
 
-**August 16, 2022:** [The Nature and Nurturing of Research: A Modern Synthesis](https://discoveryresearch.org/), [Dr. Jeff Tsao](https://www.sandia.gov/-jytsao/), [17:00 UTC]
+**August 16, 2022:** The Nature and Nurturing of Research: A Modern Synthesis, [Dr. Jeff Tsao](https://www.sandia.gov/-jytsao/)
 
 **August 9, 2022:** Design of a Trustless Software Marketplace, [John Burnham](https://www.linkedin.com/in/john-burnham-01190a32)
 
