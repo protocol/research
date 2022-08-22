@@ -10,6 +10,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **August 30, 2022:** Blockchain-based IoT systems architectures: [Practical implementations in agriculture](https://ieeexplore.ieee.org/abstract/document/8373021), [Dr. Miguel Pincheira Caro](https://twitter.com/mpincheir), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmcyMWV1dW8wdXJkZGw5Z3JsMTNzbGY3YWYgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
+**September 13, 2022:** PoSAT: Proof-of-Work Availability and Unpredictability, Without the Work, [Soubhik Deb](https://twitter.com/soubhik_deb), [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/NXBlYmdlbGxlYm9sN2w4MnM2MmJxdnQwY2MgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw)
+
 ## Past Talks
 
 ### 2022
