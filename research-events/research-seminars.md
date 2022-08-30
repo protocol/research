@@ -8,7 +8,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**August 30, 2022:** Blockchain-based IoT systems architectures: [Practical implementations in agriculture](https://ieeexplore.ieee.org/abstract/document/8373021), [Dr. Miguel Pincheira Caro](https://twitter.com/mpincheir), [16:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmcyMWV1dW8wdXJkZGw5Z3JsMTNzbGY3YWYgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**September 6, 2022:** Timelock Encryption based on drand, [Yolan Romailler](https://twitter.com/anomalroil), [15:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTl0bHFlaHRlbnIzNHRxdHU2bTNiY2tidmYgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 **September 13, 2022:** PoSAT: Proof-of-Work Availability and Unpredictability, Without the Work, [Soubhik Deb](https://twitter.com/soubhik_deb), [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/NXBlYmdlbGxlYm9sN2w4MnM2MmJxdnQwY2MgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw)
 
@@ -17,6 +17,8 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 ## Past Talks
 
 ### 2022
+
+**August 30, 2022:** Blockchain-based IoT systems architectures: Practical implementations in agriculture, [Dr. Miguel Pincheira Caro](https://twitter.com/mpincheir)
 
 **August 16, 2022:** The Nature and Nurturing of Research: A Modern Synthesis, [Dr. Jeff Tsao](https://www.sandia.gov/-jytsao/)
 
