@@ -5,7 +5,7 @@
 
 Welcome to the main research landing and launch repo. This is a companion to the [Protocol Labs Research website](https://research.protocol.ai/), which is the primary public reference for our work.
 
-Our mission is to pursue open, collaborative, high-impact research that pushes the boundaries of what computing can do for humanity.
+Our mission is to engineer tools and opportunities for revolutionary coordination systems.
 
 # What's in This Repo?
 
