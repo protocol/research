@@ -75,7 +75,7 @@ The **Network Goods** 🧧 📈  team, which includes researchers working on inc
 - areas relevant to PL research (cryptography, distributed systems, consensus, cryptoeconomics)
 - and many other topics (urban planning! tools for thought! federated learning!)
 
-We also plan the [Journal Club](https://docs.google.com/spreadsheets/d/1A-rwJ2L0D7ujKiaKa8QqrKIUSMB5vdVLcKtVyOAguwU/edit?usp=sharing) and [Research Saloon](https://docs.google.com/spreadsheets/d/1lQXA8GjlCCeOg84SqY_kOaMv5fzxFcHM2UuWMAXp2tA/edit?usp=sharing) in the ✴️ Lodestar server. 
+We also plan the [Journal Club](https://docs.google.com/spreadsheets/d/1A-rwJ2L0D7ujKiaKa8QqrKIUSMB5vdVLcKtVyOAguwU/edit?usp=sharing) and [Research Saloon](https://docs.google.com/spreadsheets/d/1A-rwJ2L0D7ujKiaKa8QqrKIUSMB5vdVLcKtVyOAguwU/edit#gid=278928881) in the ✴️ Lodestar server. 
 
 
 ## Open Problems
