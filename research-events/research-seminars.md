@@ -16,9 +16,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 **November 7, 2022:** [Algorithm-Substitution Attacks on Cryptographic Puzzles](https://eprint.iacr.org/2022/477.pdf), [Pratyush Ranjan Tiwari](https://www.pratyush.site/), [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/M3M4ZjJjbWFla2xnNHB0anRqMmozcjNoYmMgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw)
 
-**October 3, 2022:** [Impact Markets for Public Good Medicines](https://crowdfundedcures.medium.com/pay-for-success-contracts-a-new-model-to-develop-new-therapies-from-old-drugs-f69b2189184d), [Savva Kerdemelidis](https://twitter.com/newzealandlaw), [16:00 UTC]
-
-**September 13, 2022:** [PoSAT: Proof-of-Work Availability and Unpredictability, Without the Work](https://dragonboy1994.github.io/assets/pdf/PoSAT_revised_version_3.pdf), [Soubhik Deb](https://twitter.com/soubhik_deb),[16:00 UTC]
+**October 3, 2022:** [Impact Markets for Public Good Medicines](https://crowdfundedcures.medium.com/pay-for-success-contracts-a-new-model-to-develop-new-therapies-from-old-drugs-f69b2189184d), [Savva Kerdemelidis](https://twitter.com/newzealandlaw), 16:00 UTC
 
 **September 13, 2022:** PoSAT: Proof-of-Work Availability and Unpredictability, Without the Work, [Soubhik Deb](https://twitter.com/soubhik_deb), [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/NXBlYmdlbGxlYm9sN2w4MnM2MmJxdnQwY2MgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw)
 
