@@ -8,7 +8,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**November 29, 2022:** [Advances in Human Cryopreservation - Science, Ethics, and Communication], [Emil Kendziorra](https://twitter.com/emilkendziorra), [17:00 UTC]
+**November 29, 2022:** Advances in Human Cryopreservation - Science, Ethics, and Communication, [Emil Kendziorra](https://twitter.com/emilkendziorra), [17:00 UTC]
 
 ## Past Talks
 
