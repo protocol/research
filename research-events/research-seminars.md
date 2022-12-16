@@ -8,13 +8,13 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**November 29, 2022:** Advances in Human Cryopreservation - Science, Ethics, and Communication, [Emil Kendziorra](https://twitter.com/emilkendziorra), 17:00 UTC
-
 **December 20, 2022:** The Current State and the Future of Longevity Research, [Maximilian Unfried](https://twitter.com/MaxUnfried)
 
 ## Past Talks
 
 ### 2022
+
+**December 13, 2022:** Advances in Human Cryopreservation - Science, Ethics, and Communication, [Emil Kendziorra](https://twitter.com/emilkendziorra), 17:00 UTC
 
 **November 7, 2022:** [Algorithm-Substitution Attacks on Cryptographic Puzzles](https://eprint.iacr.org/2022/477.pdf), [Pratyush Ranjan Tiwari](https://www.pratyush.site/), [16:00 UTC](https://calendar.google.com/calendar/u/0/r/eventedit/M3M4ZjJjbWFla2xnNHB0anRqMmozcjNoYmMgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw)
 
