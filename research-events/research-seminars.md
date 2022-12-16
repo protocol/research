@@ -8,7 +8,7 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**December 20, 2022:** The Current State and the Future of Longevity Research, [Maximilian Unfried](https://twitter.com/MaxUnfried)
+**December 20, 2022:** The Current State and the Future of Longevity Research, [Maximilian Unfried](https://twitter.com/MaxUnfried), [17:00 UTC](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmNiNmN0dnF0MzVvczBlanBycjg3aTBzaDkgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
