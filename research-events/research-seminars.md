@@ -8,7 +8,11 @@ The [Zoom link](https://protocol.zoom.us/my/plresearchtalks) for all of the pres
 
 ## Upcoming Talks
 
-**December 20, 2022:** The Current State and the Future of Longevity Research, [Maximilian Unfried](https://twitter.com/MaxUnfried), [17:00 UTC](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmNiNmN0dnF0MzVvczBlanBycjg3aTBzaDkgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+**[January 24, 2023]:** [Cryptography with Weights: MPC, Encryption, and Signatures] (https://eprint.iacr.org/2022/1632.pdf), [Mingyuan Wang](https://sites.google.com/view/mingyuan-wang?pli=1), [17:00 UTC](https://protocol.zoom.us/webinar/register/WN_HKsUnxoTTWaDEkdnE6qEtg)
+
+**[February 7, 2023]:** [Miners' Reward Elasticity and Stability of Competing Proof-of-Work Cryptocurrencies] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3974376), [Shunya Noda](https://twitter.com/shunya_noda), [16:00 UTC](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mjlja2IxcGs0bHVpMjRjbXBxM3Q5cjJiOGMgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
+
+**[Awaiting Reschedule]:** The Current State and the Future of Longevity Research, [Maximilian Unfried](https://twitter.com/MaxUnfried), [17:00 UTC](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmNiNmN0dnF0MzVvczBlanBycjg3aTBzaDkgcHJvdG9jb2wuYWlfOGZlOWt2dXBub3ZybHFxZ3RrYmNvNDM4Z2NAZw&tmsrc=protocol.ai_8fe9kvupnovrlqqgtkbco438gc%40group.calendar.google.com)
 
 ## Past Talks
 
